@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Top Artists</title>
+</head>
+<body>
+    <h1>Your Top 10 Artists</h1>
+    <ul>
+    {% for artist in top_artists %}
+        <li>{{ artist.name }}</li>
+    {% endfor %}
+    </ul>
+</body>
+</html>
