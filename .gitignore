@@ -1,2 +1,3 @@
 .env
+.cache
 # other files and patterns to ignore
