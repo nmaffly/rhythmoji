@@ -1,14 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Your Top Artists</title>
+    <title>Top Artists and Rhythmoji</title>
 </head>
 <body>
-    <h1>Your Top 10 Artists</h1>
+    <h1>Your Top Artists</h1>
     <ul>
-    {% for artist in top_artists %}
-        <li>{{ artist.name }}</li>
-    {% endfor %}
+        {% for artist in top_artists %}
+            <li>{{ artist.name }}</li>
+        {% endfor %}
     </ul>
+
+    <h2>Your Rhythmoji Description</h2>
+    <p>{{ avatar_description }}</p>
 </body>
 </html>

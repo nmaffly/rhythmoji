@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Top Genres and Avatar</title>
+</head>
+<body>
+    <h1>Your Top Genres</h1>
+    <ul>
+        {% for genre, count in top_genres %}
+            <li>{{ genre }} ({{ count }})</li>
+        {% endfor %}
+    </ul>
+
+    <h2>Your Avatar Description</h2>
+    <p>{{ avatar_description | join(', ') }}</p>
+</body>
+</html>
