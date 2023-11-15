@@ -1,17 +1,54 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
     <title>Top Genres and Avatar</title>
 </head>
 <body>
-    <h1>Your Top Genres</h1>
-    <ul>
-        {% for genre, count in top_genres %}
-            <li>{{ genre }} ({{ count }})</li>
-        {% endfor %}
-    </ul>
+    <header>
+        <nav>
+            <div class="container">
+                <h1>Your Music Profile</h1>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/login">Login</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
 
-    <h2>Your Avatar Description</h2>
-    <p>{{ avatar_description | join(', ') }}</p>
+    <main>
+        <section class="hero">
+            <div class="container">
+                <h1>Your Top Genres</h1>
+            </div>
+        </section>
+
+        <section class="content">
+            <div class="container">
+                <h2>Top Genres</h2>
+                <ul>
+                    {% for genre, count in top_genres %}
+                        <li>{{ genre }} ({{ count }})</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </section>
+
+        <section class="avatar">
+            <div class="container">
+                <h2>Your Avatar Description</h2>
+                <p>{{ avatar_description | join(', ') }}</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2023 Your Company</p>
+        </div>
+    </footer>
 </body>
 </html>
