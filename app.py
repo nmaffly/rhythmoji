@@ -42,14 +42,12 @@ def callback():
     session['token_info'] = token_info
     return redirect('/get_top_genres')
 
-
 def generate_avatar_description(top_genres):
     avatar_description = []
     for genre, _ in top_genres:
         fashion_items = genre_fashion.get(genre.lower(), [])
         avatar_description.extend(fashion_items)
     return avatar_description
-
 
 @app.route('/get_top_genres')
 def get_top_genres():
@@ -58,26 +56,16 @@ def get_top_genres():
         if not token_info:
             raise Exception("User not logged in")
         sp = spotipy.Spotify(auth=token_info['access_token'])
-        # Changed time_range to 'short_term' for the last month
         top_artists = sp.current_user_top_artists(limit=50, time_range='short_term')['items']
         genres = extract_genres(sp, top_artists)
         top_genres = Counter(genres).most_common(10)
         
-        # Call the function to generate the avatar description
         avatar_description = generate_avatar_description(top_genres)
         
         return render_template('top_genres.html', top_genres=top_genres, avatar_description=avatar_description)
     except Exception as e:
         print(e)
         return redirect('/')
-
-def generate_clothing_items(top_genres):
-    clothing_items = []
-    for genre, _ in top_genres:
-        fashion_items = genre_fashion.get(genre.lower(), [])
-        print(f"Genre: {genre}, Fashion Items: {fashion_items}")
-        clothing_items.extend(fashion_items)
-    return clothing_items
 
 def extract_genres(sp, top_artists):
     genres = []
