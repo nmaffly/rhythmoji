@@ -1,201 +1,201 @@
-User ID,Top Genres,Fashion Style
-1,"Soul/R&B, Classical, Instrumental","velvet jacket, dress shirt, classical outfit"
-2,"Jazz, Instrumental, Country","linen shirt, formal shoes, wide-brimmed hat"
-3,"Blues, Jazz, Metal","harmonica pendant, fedora hat, combat boots"
-4,"Rock, Other, Vocal","band t-shirt, personalized accessories, minimalist accessories"
-5,"Rock, Acoustic, Vocal","leather jacket, casual shirt, dress shoes"
-6,"Rock, Jazz, Punk","band t-shirt, linen shirt, punk jacket"
-7,"Electronic, Easy Listening, Pop","graphic tee, loafers, fashionable sneakers"
-8,"Easy Listening, Indie, Experimental","relaxed fit clothing, corduroy pants, avant-garde attire"
-9,"Metal, Reggae, Pop","black t-shirt, beanie, skinny jeans"
-10,"Blues, Pop, World Music","vintage jeans, skinny jeans, sandals"
-11,"Punk, Country, Acoustic","combat boots, cowboy boots, casual shirt"
-12,"Country, Dance, Acoustic","wide-brimmed hat, light-up shoes, comfortable jeans"
-13,"Ambient, Punk, Metal","minimalist jewelry, combat boots, black t-shirt"
-14,"Soul/R&B, Jazz, Pop","velvet jacket, linen shirt, fashionable sneakers"
-15,"Indie, Reggae, Rock","corduroy pants, beanie, band t-shirt"
-16,"Hip Hop/Rap, Easy Listening, Metal","streetwear hoodie, relaxed fit clothing, black t-shirt"
-17,"Ambient, Instrumental, Metal","earth tones, simple jewelry, studded belt"
-18,"Experimental, Reggae, Vocal","avant-garde attire, beanie, dress shoes"
-19,"Experimental, Easy Listening, Metal","bold patterns, relaxed fit clothing, combat boots"
-20,"Ambient, Electronic, Pop","loose-fitting clothing, cargo pants, bright colored top"
-21,"Indie, Ambient, Easy Listening","ankle boots, loose-fitting clothing, light scarf"
-22,"Electronic, World Music, Latin","LED accessories, sandals, dance shoes"
-23,"Punk, Country, Other","punk jacket, cowboy boots, unique finds"
-24,"Country, Punk, Indie","wide-brimmed hat, combat boots, ankle boots"
-25,"Acoustic, Hip Hop/Rap, Instrumental","simple sneakers, streetwear hoodie, simple jewelry"
-26,"Soul/R&B, Indie, Experimental","silk scarf, ankle boots, avant-garde attire"
-27,"Experimental, Instrumental, Metal","avant-garde attire, formal shoes, black t-shirt"
-28,"Vocal, Jazz, World Music","dress shoes, sunglasses, ethnic print clothing"
-29,"Classical, Hip Hop/Rap, Pop","dress shirt, sneakers, fashionable sneakers"
-30,"Hip Hop/Rap, Experimental, Metal","streetwear hoodie, unique accessories, combat boots"
-31,"Hip Hop/Rap, World Music, Dance","baseball cap, beaded accessories, glow accessories"
-32,"Vocal, Electronic, Ambient","minimalist accessories, cargo pants, loose-fitting clothing"
-33,"Vocal, Hip Hop/Rap, Country","dress shoes, baseball cap, denim shirt"
-34,"Pop, Latin, Electronic","skinny jeans, dance shoes, graphic tee"
-35,"Reggae, Easy Listening, Other","beads bracelet, loafers, personalized accessories"
-36,"World Music, Rock, Acoustic","beaded accessories, band t-shirt, simple sneakers"
-37,"Soul/R&B, World Music, Pop","silk scarf, sandals, skinny jeans"
-38,"Electronic, Indie, Vocal","graphic tee, corduroy pants, elegant gown"
-39,"Country, Classical, Vocal","cowboy boots, dress shirt, minimalist accessories"
-40,"World Music, Reggae, Country","sandals, beanie, cowboy boots"
-41,"Acoustic, Experimental, Pop","comfortable jeans, avant-garde attire, fashionable sneakers"
-42,"Experimental, Jazz, Latin","avant-garde attire, linen shirt, colorful dress"
-43,"Other, Hip Hop/Rap, Reggae","personalized accessories, baseball cap, beanie"
-44,"Hip Hop/Rap, Soul/R&B, Acoustic","baseball cap, velvet jacket, simple sneakers"
-45,"Vocal, Metal, Reggae","elegant gown, studded belt, beanie"
-46,"Acoustic, Pop, Ambient","casual shirt, skinny jeans, minimalist jewelry"
-47,"Ambient, Indie, Vocal","loose-fitting clothing, ankle boots, dress shoes"
-48,"Dance, Pop, Hip Hop/Rap","neon clothing, skinny jeans, sneakers"
-49,"Metal, Electronic, Latin","black t-shirt, LED accessories, dance shoes"
-50,"Rock, Metal, Electronic","ripped jeans, combat boots, LED accessories"
-51,"Other, Dance, World Music","eclectic mix, neon clothing, sandals"
-52,"Instrumental, Folk, Rock","classical outfit, ankle boots, leather jacket"
-53,"Ambient, Easy Listening, Latin","loose-fitting clothing, relaxed fit clothing, dance shoes"
-54,"Soul/R&B, Electronic, Other","velvet jacket, graphic tee, eclectic mix"
-55,"Hip Hop/Rap, Experimental, Acoustic","sneakers, avant-garde attire, casual shirt"
-56,"Hip Hop/Rap, Folk, Soul/R&B","sneakers, wool hat, silk scarf"
-57,"Easy Listening, Pop, Metal","loafers, fashionable sneakers, combat boots"
-58,"Punk, Instrumental, Experimental","combat boots, classical outfit, unique accessories"
-59,"Experimental, Ambient, Rock","bold patterns, minimalist jewelry, ripped jeans"
-60,"Instrumental, Folk, Experimental","simple jewelry, ankle boots, unique accessories"
-61,"Reggae, Folk, Acoustic","beanie, flannel shirt, comfortable jeans"
-62,"World Music, Pop, Vocal","ethnic print clothing, fashionable sneakers, minimalist accessories"
-63,"Hip Hop/Rap, Punk, Ambient","sneakers, punk jacket, minimalist jewelry"
-64,"Latin, Reggae, World Music","colorful dress, beanie, beaded accessories"
-65,"Latin, Dance, Folk","colorful dress, light-up shoes, flannel shirt"
-66,"Indie, Country, Easy Listening","corduroy pants, wide-brimmed hat, light scarf"
-67,"Other, Blues, Pop","personalized accessories, vintage jeans, bright colored top"
-68,"Dance, Hip Hop/Rap, Instrumental","light-up shoes, sneakers, formal shoes"
-69,"Latin, World Music, Classical","colorful dress, beaded accessories, dress shirt"
-70,"Metal, Punk, Acoustic","black t-shirt, combat boots, comfortable jeans"
-71,"Indie, Country, Other","ankle boots, wide-brimmed hat, personalized accessories"
-72,"Experimental, Latin, Acoustic","bold patterns, cuban shirt, simple sneakers"
-73,"Reggae, Indie, World Music","beanie, vintage sweater, sandals"
-74,"Latin, Easy Listening, Other","cuban shirt, relaxed fit clothing, unique finds"
-75,"Latin, Vocal, Ambient","colorful dress, dress shoes, earth tones"
-76,"Punk, Soul/R&B, Ambient","punk jacket, slim-fit trousers, loose-fitting clothing"
-77,"Acoustic, Hip Hop/Rap, Indie","comfortable jeans, streetwear hoodie, vintage sweater"
-78,"Classical, Electronic, Metal","formal coat, graphic tee, studded belt"
-79,"Experimental, Instrumental, Electronic","avant-garde attire, formal shoes, cargo pants"
-80,"Indie, Hip Hop/Rap, World Music","ankle boots, sneakers, beaded accessories"
-81,"Hip Hop/Rap, Metal, Experimental","streetwear hoodie, studded belt, bold patterns"
-82,"Easy Listening, Hip Hop/Rap, Metal","light scarf, streetwear hoodie, combat boots"
-83,"Reggae, Indie, Acoustic","beanie, vintage sweater, simple sneakers"
-84,"Indie, Pop, Reggae","corduroy pants, fashionable sneakers, beanie"
-85,"Vocal, Rock, Punk","dress shoes, ripped jeans, chain accessories"
-86,"Other, Electronic, Indie","personalized accessories, LED accessories, ankle boots"
-87,"Latin, Jazz, Folk","cuban shirt, linen shirt, flannel shirt"
-88,"Ambient, Indie, Dance","earth tones, ankle boots, glow accessories"
-89,"Folk, Ambient, Classical","flannel shirt, minimalist jewelry, formal coat"
-90,"Ambient, Blues, Dance","loose-fitting clothing, vintage jeans, light-up shoes"
-91,"Experimental, World Music, Classical","bold patterns, sandals, formal coat"
-92,"Electronic, Latin, Hip Hop/Rap","cargo pants, colorful dress, sneakers"
-93,"Easy Listening, Folk, Hip Hop/Rap","light scarf, flannel shirt, streetwear hoodie"
-94,"Pop, Easy Listening, Punk","bright colored top, loafers, punk jacket"
-95,"Experimental, Jazz, Acoustic","avant-garde attire, fedora hat, simple sneakers"
-96,"Indie, Other, Punk","corduroy pants, eclectic mix, chain accessories"
-97,"Metal, World Music, Soul/R&B","combat boots, ethnic print clothing, silk scarf"
-98,"Country, Rock, Soul/R&B","denim shirt, band t-shirt, slim-fit trousers"
-99,"Blues, Soul/R&B, Metal","vintage jeans, velvet jacket, black t-shirt"
-100,"Soul/R&B, Ambient, Dance","slim-fit trousers, loose-fitting clothing, glow accessories"
-101,"Vocal, World Music, Latin","elegant gown, sandals, dance shoes"
-102,"Acoustic, Easy Listening, Country","casual shirt, light scarf, wide-brimmed hat"
-103,"Reggae, Hip Hop/Rap, Blues","rasta colors clothing, baseball cap, vintage jeans"
-104,"World Music, Punk, Classical","beaded accessories, punk jacket, loafers"
-105,"Punk, World Music, Latin","combat boots, beaded accessories, cuban shirt"
-106,"Ambient, Pop, Latin","minimalist jewelry, skinny jeans, cuban shirt"
-107,"Acoustic, Reggae, Rock","casual shirt, beads bracelet, ripped jeans"
-108,"Indie, Metal, Folk","corduroy pants, black t-shirt, wool hat"
-109,"Indie, Acoustic, Country","ankle boots, simple sneakers, cowboy boots"
-110,"Ambient, Dance, Soul/R&B","minimalist jewelry, neon clothing, slim-fit trousers"
-111,"Instrumental, Classical, Indie","classical outfit, dress shirt, ankle boots"
-112,"Vocal, Dance, World Music","dress shoes, glow accessories, ethnic print clothing"
-113,"Soul/R&B, Other, Acoustic","silk scarf, unique finds, simple sneakers"
-114,"Easy Listening, World Music, Folk","light scarf, sandals, ankle boots"
-115,"Ambient, Country, Rock","minimalist jewelry, wide-brimmed hat, band t-shirt"
-116,"Pop, Easy Listening, Ambient","bright colored top, loafers, loose-fitting clothing"
-117,"Punk, Folk, Vocal","chain accessories, wool hat, dress shoes"
-118,"Soul/R&B, Punk, Instrumental","silk scarf, chain accessories, simple jewelry"
-119,"Reggae, Punk, Easy Listening","beads bracelet, chain accessories, relaxed fit clothing"
-120,"Classical, Dance, Folk","formal coat, neon clothing, wool hat"
-121,"Instrumental, Experimental, World Music","simple jewelry, bold patterns, sandals"
-122,"Country, Electronic, Vocal","wide-brimmed hat, graphic tee, elegant gown"
-123,"Classical, Vocal, Folk","loafers, minimalist accessories, wool hat"
-124,"Latin, Dance, Acoustic","colorful dress, glow accessories, simple sneakers"
-125,"Reggae, Blues, Hip Hop/Rap","beanie, vintage jeans, sneakers"
-126,"Folk, Classical, Electronic","ankle boots, formal coat, cargo pants"
-127,"Acoustic, Pop, World Music","comfortable jeans, bright colored top, ethnic print clothing"
-128,"Dance, Other, Folk","glow accessories, personalized accessories, flannel shirt"
-129,"Folk, Classical, Dance","ankle boots, dress shirt, glow accessories"
-130,"Other, Latin, Experimental","unique finds, dance shoes, bold patterns"
-131,"Instrumental, Indie, World Music","classical outfit, corduroy pants, ethnic print clothing"
-132,"Vocal, Indie, Soul/R&B","elegant gown, ankle boots, slim-fit trousers"
-133,"Pop, Rock, Folk","bright colored top, ripped jeans, wool hat"
-134,"Indie, Electronic, Dance","vintage sweater, LED accessories, neon clothing"
-135,"Electronic, Jazz, Reggae","graphic tee, fedora hat, rasta colors clothing"
-136,"Latin, Dance, Instrumental","dance shoes, light-up shoes, simple jewelry"
-137,"Dance, World Music, Experimental","glow accessories, sandals, unique accessories"
-138,"Acoustic, Blues, Indie","casual shirt, leather shoes, vintage sweater"
-139,"Easy Listening, Latin, Pop","light scarf, dance shoes, fashionable sneakers"
-140,"Punk, Latin, Rock","combat boots, cuban shirt, ripped jeans"
-141,"Latin, Electronic, Easy Listening","colorful dress, graphic tee, loafers"
-142,"Punk, Pop, Reggae","chain accessories, fashionable sneakers, rasta colors clothing"
-143,"Vocal, Indie, Hip Hop/Rap","elegant gown, corduroy pants, streetwear hoodie"
-144,"Easy Listening, Instrumental, Soul/R&B","loafers, simple jewelry, slim-fit trousers"
-145,"Vocal, Metal, Latin","dress shoes, black t-shirt, cuban shirt"
-146,"Indie, Reggae, Rock","vintage sweater, beads bracelet, band t-shirt"
-147,"Latin, Experimental, Indie","colorful dress, bold patterns, corduroy pants"
-148,"Rock, Soul/R&B, Classical","band t-shirt, velvet jacket, formal coat"
-149,"Electronic, Jazz, Experimental","LED accessories, fedora hat, bold patterns"
-150,"Electronic, Acoustic, Punk","cargo pants, casual shirt, chain accessories"
-151,"Metal, Easy Listening, Hip Hop/Rap","black t-shirt, relaxed fit clothing, streetwear hoodie"
-152,"Folk, Soul/R&B, Hip Hop/Rap","wool hat, silk scarf, baseball cap"
-153,"Reggae, Soul/R&B, Easy Listening","beanie, silk scarf, light scarf"
-154,"Electronic, Hip Hop/Rap, Dance","graphic tee, sneakers, neon clothing"
-155,"Blues, Metal, Soul/R&B","vintage jeans, studded belt, slim-fit trousers"
-156,"Pop, Experimental, Electronic","skinny jeans, bold patterns, graphic tee"
-157,"Classical, Indie, Soul/R&B","loafers, vintage sweater, velvet jacket"
-158,"Latin, Pop, Vocal","colorful dress, skinny jeans, minimalist accessories"
-159,"Jazz, Dance, World Music","sunglasses, neon clothing, beaded accessories"
-160,"Jazz, Ambient, Punk","sunglasses, minimalist jewelry, chain accessories"
-161,"Reggae, Metal, Classical","beads bracelet, studded belt, dress shirt"
-162,"Easy Listening, Acoustic, Vocal","loafers, simple sneakers, minimalist accessories"
-163,"Pop, Other, Acoustic","bright colored top, personalized accessories, simple sneakers"
-164,"Experimental, Folk, Country","avant-garde attire, wool hat, cowboy boots"
-165,"Soul/R&B, Blues, Ambient","silk scarf, harmonica pendant, loose-fitting clothing"
-166,"Blues, Acoustic, Electronic","leather shoes, casual shirt, graphic tee"
-167,"Instrumental, Soul/R&B, Dance","simple jewelry, silk scarf, neon clothing"
-168,"World Music, Soul/R&B, Country","ethnic print clothing, velvet jacket, denim shirt"
-169,"Rock, World Music, Easy Listening","band t-shirt, sandals, relaxed fit clothing"
-170,"Instrumental, Acoustic, Indie","formal shoes, simple sneakers, vintage sweater"
-171,"Instrumental, Rock, Easy Listening","classical outfit, band t-shirt, light scarf"
-172,"Vocal, Easy Listening, Instrumental","elegant gown, loafers, formal shoes"
-173,"Ambient, Punk, Indie","loose-fitting clothing, combat boots, vintage sweater"
-174,"Punk, Dance, Pop","punk jacket, light-up shoes, fashionable sneakers"
-175,"Hip Hop/Rap, Soul/R&B, Other","sneakers, silk scarf, unique finds"
-176,"Electronic, Soul/R&B, Reggae","graphic tee, silk scarf, beads bracelet"
-177,"Classical, Folk, Punk","loafers, wool hat, combat boots"
-178,"Easy Listening, World Music, Experimental","relaxed fit clothing, beaded accessories, avant-garde attire"
-179,"World Music, Acoustic, Experimental","ethnic print clothing, simple sneakers, bold patterns"
-180,"Pop, Punk, Vocal","fashionable sneakers, punk jacket, dress shoes"
-181,"Soul/R&B, Acoustic, Jazz","silk scarf, casual shirt, sunglasses"
-182,"Jazz, Classical, Easy Listening","linen shirt, loafers, relaxed fit clothing"
-183,"Classical, Electronic, Easy Listening","formal coat, graphic tee, loafers"
-184,"World Music, Country, Vocal","beaded accessories, cowboy boots, elegant gown"
-185,"Reggae, Experimental, Electronic","beads bracelet, unique accessories, LED accessories"
-186,"Metal, Soul/R&B, Folk","studded belt, silk scarf, wool hat"
-187,"Instrumental, Ambient, Indie","formal shoes, loose-fitting clothing, corduroy pants"
-188,"Hip Hop/Rap, Acoustic, Ambient","sneakers, casual shirt, earth tones"
-189,"Instrumental, Experimental, Jazz","formal shoes, avant-garde attire, sunglasses"
-190,"Instrumental, Country, Folk","formal shoes, cowboy boots, wool hat"
-191,"Acoustic, Indie, Jazz","comfortable jeans, ankle boots, sunglasses"
-192,"Classical, Ambient, Vocal","formal coat, minimalist jewelry, minimalist accessories"
-193,"Folk, Blues, Soul/R&B","ankle boots, leather shoes, slim-fit trousers"
-194,"Folk, Latin, Other","ankle boots, colorful dress, eclectic mix"
-195,"Reggae, Blues, World Music","beads bracelet, leather shoes, ethnic print clothing"
-196,"Pop, Country, Acoustic","skinny jeans, wide-brimmed hat, comfortable jeans"
-197,"Hip Hop/Rap, Instrumental, Ambient","sneakers, formal shoes, earth tones"
-198,"Metal, Country, Soul/R&B","studded belt, wide-brimmed hat, silk scarf"
-199,"Easy Listening, Rock, Ambient","relaxed fit clothing, leather jacket, earth tones"
-200,"Punk, Classical, Blues","punk jacket, formal coat, leather shoes"
+Genre_1,Genre_2,Genre_3,Attire_1,Attire_2,Attire_3
+Soul/R&B,Classical,Instrumental,velvet jacket,dress shirt,classical outfit
+Jazz,Instrumental,Country,linen shirt,formal shoes,wide-brimmed hat
+Blues,Jazz,Metal,harmonica pendant,fedora hat,combat boots
+Rock,Other,Vocal,band t-shirt,personalized accessories,minimalist accessories
+Rock,Acoustic,Vocal,leather jacket,casual shirt,dress shoes
+Rock,Jazz,Punk,band t-shirt,linen shirt,punk jacket
+Electronic,Easy Listening,Pop,graphic tee,loafers,fashionable sneakers
+Easy Listening,Indie,Experimental,relaxed fit clothing,corduroy pants,avant-garde attire
+Metal,Reggae,Pop,black t-shirt,beanie,skinny jeans
+Blues,Pop,World Music,vintage jeans,skinny jeans,sandals
+Punk,Country,Acoustic,combat boots,cowboy boots,casual shirt
+Country,Dance,Acoustic,wide-brimmed hat,light-up shoes,comfortable jeans
+Ambient,Punk,Metal,minimalist jewelry,combat boots,black t-shirt
+Soul/R&B,Jazz,Pop,velvet jacket,linen shirt,fashionable sneakers
+Indie,Reggae,Rock,corduroy pants,beanie,band t-shirt
+Hip Hop/Rap,Easy Listening,Metal,streetwear hoodie,relaxed fit clothing,black t-shirt
+Ambient,Instrumental,Metal,earth tones,simple jewelry,studded belt
+Experimental,Reggae,Vocal,avant-garde attire,beanie,dress shoes
+Experimental,Easy Listening,Metal,bold patterns,relaxed fit clothing,combat boots
+Ambient,Electronic,Pop,loose-fitting clothing,cargo pants,bright colored top
+Indie,Ambient,Easy Listening,ankle boots,loose-fitting clothing,light scarf
+Electronic,World Music,Latin,LED accessories,sandals,dance shoes
+Punk,Country,Other,punk jacket,cowboy boots,unique finds
+Country,Punk,Indie,wide-brimmed hat,combat boots,ankle boots
+Acoustic,Hip Hop/Rap,Instrumental,simple sneakers,streetwear hoodie,simple jewelry
+Soul/R&B,Indie,Experimental,silk scarf,ankle boots,avant-garde attire
+Experimental,Instrumental,Metal,avant-garde attire,formal shoes,black t-shirt
+Vocal,Jazz,World Music,dress shoes,sunglasses,ethnic print clothing
+Classical,Hip Hop/Rap,Pop,dress shirt,sneakers,fashionable sneakers
+Hip Hop/Rap,Experimental,Metal,streetwear hoodie,unique accessories,combat boots
+Hip Hop/Rap,World Music,Dance,baseball cap,beaded accessories,glow accessories
+Vocal,Electronic,Ambient,minimalist accessories,cargo pants,loose-fitting clothing
+Vocal,Hip Hop/Rap,Country,dress shoes,baseball cap,denim shirt
+Pop,Latin,Electronic,skinny jeans,dance shoes,graphic tee
+Reggae,Easy Listening,Other,beads bracelet,loafers,personalized accessories
+World Music,Rock,Acoustic,beaded accessories,band t-shirt,simple sneakers
+Soul/R&B,World Music,Pop,silk scarf,sandals,skinny jeans
+Electronic,Indie,Vocal,graphic tee,corduroy pants,elegant gown
+Country,Classical,Vocal,cowboy boots,dress shirt,minimalist accessories
+World Music,Reggae,Country,sandals,beanie,cowboy boots
+Acoustic,Experimental,Pop,comfortable jeans,avant-garde attire,fashionable sneakers
+Experimental,Jazz,Latin,avant-garde attire,linen shirt,colorful dress
+Other,Hip Hop/Rap,Reggae,personalized accessories,baseball cap,beanie
+Hip Hop/Rap,Soul/R&B,Acoustic,baseball cap,velvet jacket,simple sneakers
+Vocal,Metal,Reggae,elegant gown,studded belt,beanie
+Acoustic,Pop,Ambient,casual shirt,skinny jeans,minimalist jewelry
+Ambient,Indie,Vocal,loose-fitting clothing,ankle boots,dress shoes
+Dance,Pop,Hip Hop/Rap,neon clothing,skinny jeans,sneakers
+Metal,Electronic,Latin,black t-shirt,LED accessories,dance shoes
+Rock,Metal,Electronic,ripped jeans,combat boots,LED accessories
+Other,Dance,World Music,eclectic mix,neon clothing,sandals
+Instrumental,Folk,Rock,classical outfit,ankle boots,leather jacket
+Ambient,Easy Listening,Latin,loose-fitting clothing,relaxed fit clothing,dance shoes
+Soul/R&B,Electronic,Other,velvet jacket,graphic tee,eclectic mix
+Hip Hop/Rap,Experimental,Acoustic,sneakers,avant-garde attire,casual shirt
+Hip Hop/Rap,Folk,Soul/R&B,sneakers,wool hat,silk scarf
+Easy Listening,Pop,Metal,loafers,fashionable sneakers,combat boots
+Punk,Instrumental,Experimental,combat boots,classical outfit,unique accessories
+Experimental,Ambient,Rock,bold patterns,minimalist jewelry,ripped jeans
+Instrumental,Folk,Experimental,simple jewelry,ankle boots,unique accessories
+Reggae,Folk,Acoustic,beanie,flannel shirt,comfortable jeans
+World Music,Pop,Vocal,ethnic print clothing,fashionable sneakers,minimalist accessories
+Hip Hop/Rap,Punk,Ambient,sneakers,punk jacket,minimalist jewelry
+Latin,Reggae,World Music,colorful dress,beanie,beaded accessories
+Latin,Dance,Folk,colorful dress,light-up shoes,flannel shirt
+Indie,Country,Easy Listening,corduroy pants,wide-brimmed hat,light scarf
+Other,Blues,Pop,personalized accessories,vintage jeans,bright colored top
+Dance,Hip Hop/Rap,Instrumental,light-up shoes,sneakers,formal shoes
+Latin,World Music,Classical,colorful dress,beaded accessories,dress shirt
+Metal,Punk,Acoustic,black t-shirt,combat boots,comfortable jeans
+Indie,Country,Other,ankle boots,wide-brimmed hat,personalized accessories
+Experimental,Latin,Acoustic,bold patterns,cuban shirt,simple sneakers
+Reggae,Indie,World Music,beanie,vintage sweater,sandals
+Latin,Easy Listening,Other,cuban shirt,relaxed fit clothing,unique finds
+Latin,Vocal,Ambient,colorful dress,dress shoes,earth tones
+Punk,Soul/R&B,Ambient,punk jacket,slim-fit trousers,loose-fitting clothing
+Acoustic,Hip Hop/Rap,Indie,comfortable jeans,streetwear hoodie,vintage sweater
+Classical,Electronic,Metal,formal coat,graphic tee,studded belt
+Experimental,Instrumental,Electronic,avant-garde attire,formal shoes,cargo pants
+Indie,Hip Hop/Rap,World Music,ankle boots,sneakers,beaded accessories
+Hip Hop/Rap,Metal,Experimental,streetwear hoodie,studded belt,bold patterns
+Easy Listening,Hip Hop/Rap,Metal,light scarf,streetwear hoodie,combat boots
+Reggae,Indie,Acoustic,beanie,vintage sweater,simple sneakers
+Indie,Pop,Reggae,corduroy pants,fashionable sneakers,beanie
+Vocal,Rock,Punk,dress shoes,ripped jeans,chain accessories
+Other,Electronic,Indie,personalized accessories,LED accessories,ankle boots
+Latin,Jazz,Folk,cuban shirt,linen shirt,flannel shirt
+Ambient,Indie,Dance,earth tones,ankle boots,glow accessories
+Folk,Ambient,Classical,flannel shirt,minimalist jewelry,formal coat
+Ambient,Blues,Dance,loose-fitting clothing,vintage jeans,light-up shoes
+Experimental,World Music,Classical,bold patterns,sandals,formal coat
+Electronic,Latin,Hip Hop/Rap,cargo pants,colorful dress,sneakers
+Easy Listening,Folk,Hip Hop/Rap,light scarf,flannel shirt,streetwear hoodie
+Pop,Easy Listening,Punk,bright colored top,loafers,punk jacket
+Experimental,Jazz,Acoustic,avant-garde attire,fedora hat,simple sneakers
+Indie,Other,Punk,corduroy pants,eclectic mix,chain accessories
+Metal,World Music,Soul/R&B,combat boots,ethnic print clothing,silk scarf
+Country,Rock,Soul/R&B,denim shirt,band t-shirt,slim-fit trousers
+Blues,Soul/R&B,Metal,vintage jeans,velvet jacket,black t-shirt
+Soul/R&B,Ambient,Dance,slim-fit trousers,loose-fitting clothing,glow accessories
+Vocal,World Music,Latin,elegant gown,sandals,dance shoes
+Acoustic,Easy Listening,Country,casual shirt,light scarf,wide-brimmed hat
+Reggae,Hip Hop/Rap,Blues,rasta colors clothing,baseball cap,vintage jeans
+World Music,Punk,Classical,beaded accessories,punk jacket,loafers
+Punk,World Music,Latin,combat boots,beaded accessories,cuban shirt
+Ambient,Pop,Latin,minimalist jewelry,skinny jeans,cuban shirt
+Acoustic,Reggae,Rock,casual shirt,beads bracelet,ripped jeans
+Indie,Metal,Folk,corduroy pants,black t-shirt,wool hat
+Indie,Acoustic,Country,ankle boots,simple sneakers,cowboy boots
+Ambient,Dance,Soul/R&B,minimalist jewelry,neon clothing,slim-fit trousers
+Instrumental,Classical,Indie,classical outfit,dress shirt,ankle boots
+Vocal,Dance,World Music,dress shoes,glow accessories,ethnic print clothing
+Soul/R&B,Other,Acoustic,silk scarf,unique finds,simple sneakers
+Easy Listening,World Music,Folk,light scarf,sandals,ankle boots
+Ambient,Country,Rock,minimalist jewelry,wide-brimmed hat,band t-shirt
+Pop,Easy Listening,Ambient,bright colored top,loafers,loose-fitting clothing
+Punk,Folk,Vocal,chain accessories,wool hat,dress shoes
+Soul/R&B,Punk,Instrumental,silk scarf,chain accessories,simple jewelry
+Reggae,Punk,Easy Listening,beads bracelet,chain accessories,relaxed fit clothing
+Classical,Dance,Folk,formal coat,neon clothing,wool hat
+Instrumental,Experimental,World Music,simple jewelry,bold patterns,sandals
+Country,Electronic,Vocal,wide-brimmed hat,graphic tee,elegant gown
+Classical,Vocal,Folk,loafers,minimalist accessories,wool hat
+Latin,Dance,Acoustic,colorful dress,glow accessories,simple sneakers
+Reggae,Blues,Hip Hop/Rap,beanie,vintage jeans,sneakers
+Folk,Classical,Electronic,ankle boots,formal coat,cargo pants
+Acoustic,Pop,World Music,comfortable jeans,bright colored top,ethnic print clothing
+Dance,Other,Folk,glow accessories,personalized accessories,flannel shirt
+Folk,Classical,Dance,ankle boots,dress shirt,glow accessories
+Other,Latin,Experimental,unique finds,dance shoes,bold patterns
+Instrumental,Indie,World Music,classical outfit,corduroy pants,ethnic print clothing
+Vocal,Indie,Soul/R&B,elegant gown,ankle boots,slim-fit trousers
+Pop,Rock,Folk,bright colored top,ripped jeans,wool hat
+Indie,Electronic,Dance,vintage sweater,LED accessories,neon clothing
+Electronic,Jazz,Reggae,graphic tee,fedora hat,rasta colors clothing
+Latin,Dance,Instrumental,dance shoes,light-up shoes,simple jewelry
+Dance,World Music,Experimental,glow accessories,sandals,unique accessories
+Acoustic,Blues,Indie,casual shirt,leather shoes,vintage sweater
+Easy Listening,Latin,Pop,light scarf,dance shoes,fashionable sneakers
+Punk,Latin,Rock,combat boots,cuban shirt,ripped jeans
+Latin,Electronic,Easy Listening,colorful dress,graphic tee,loafers
+Punk,Pop,Reggae,chain accessories,fashionable sneakers,rasta colors clothing
+Vocal,Indie,Hip Hop/Rap,elegant gown,corduroy pants,streetwear hoodie
+Easy Listening,Instrumental,Soul/R&B,loafers,simple jewelry,slim-fit trousers
+Vocal,Metal,Latin,dress shoes,black t-shirt,cuban shirt
+Indie,Reggae,Rock,vintage sweater,beads bracelet,band t-shirt
+Latin,Experimental,Indie,colorful dress,bold patterns,corduroy pants
+Rock,Soul/R&B,Classical,band t-shirt,velvet jacket,formal coat
+Electronic,Jazz,Experimental,LED accessories,fedora hat,bold patterns
+Electronic,Acoustic,Punk,cargo pants,casual shirt,chain accessories
+Metal,Easy Listening,Hip Hop/Rap,black t-shirt,relaxed fit clothing,streetwear hoodie
+Folk,Soul/R&B,Hip Hop/Rap,wool hat,silk scarf,baseball cap
+Reggae,Soul/R&B,Easy Listening,beanie,silk scarf,light scarf
+Electronic,Hip Hop/Rap,Dance,graphic tee,sneakers,neon clothing
+Blues,Metal,Soul/R&B,vintage jeans,studded belt,slim-fit trousers
+Pop,Experimental,Electronic,skinny jeans,bold patterns,graphic tee
+Classical,Indie,Soul/R&B,loafers,vintage sweater,velvet jacket
+Latin,Pop,Vocal,colorful dress,skinny jeans,minimalist accessories
+Jazz,Dance,World Music,sunglasses,neon clothing,beaded accessories
+Jazz,Ambient,Punk,sunglasses,minimalist jewelry,chain accessories
+Reggae,Metal,Classical,beads bracelet,studded belt,dress shirt
+Easy Listening,Acoustic,Vocal,loafers,simple sneakers,minimalist accessories
+Pop,Other,Acoustic,bright colored top,personalized accessories,simple sneakers
+Experimental,Folk,Country,avant-garde attire,wool hat,cowboy boots
+Soul/R&B,Blues,Ambient,silk scarf,harmonica pendant,loose-fitting clothing
+Blues,Acoustic,Electronic,leather shoes,casual shirt,graphic tee
+Instrumental,Soul/R&B,Dance,simple jewelry,silk scarf,neon clothing
+World Music,Soul/R&B,Country,ethnic print clothing,velvet jacket,denim shirt
+Rock,World Music,Easy Listening,band t-shirt,sandals,relaxed fit clothing
+Instrumental,Acoustic,Indie,formal shoes,simple sneakers,vintage sweater
+Instrumental,Rock,Easy Listening,classical outfit,band t-shirt,light scarf
+Vocal,Easy Listening,Instrumental,elegant gown,loafers,formal shoes
+Ambient,Punk,Indie,loose-fitting clothing,combat boots,vintage sweater
+Punk,Dance,Pop,punk jacket,light-up shoes,fashionable sneakers
+Hip Hop/Rap,Soul/R&B,Other,sneakers,silk scarf,unique finds
+Electronic,Soul/R&B,Reggae,graphic tee,silk scarf,beads bracelet
+Classical,Folk,Punk,loafers,wool hat,combat boots
+Easy Listening,World Music,Experimental,relaxed fit clothing,beaded accessories,avant-garde attire
+World Music,Acoustic,Experimental,ethnic print clothing,simple sneakers,bold patterns
+Pop,Punk,Vocal,fashionable sneakers,punk jacket,dress shoes
+Soul/R&B,Acoustic,Jazz,silk scarf,casual shirt,sunglasses
+Jazz,Classical,Easy Listening,linen shirt,loafers,relaxed fit clothing
+Classical,Electronic,Easy Listening,formal coat,graphic tee,loafers
+World Music,Country,Vocal,beaded accessories,cowboy boots,elegant gown
+Reggae,Experimental,Electronic,beads bracelet,unique accessories,LED accessories
+Metal,Soul/R&B,Folk,studded belt,silk scarf,wool hat
+Instrumental,Ambient,Indie,formal shoes,loose-fitting clothing,corduroy pants
+Hip Hop/Rap,Acoustic,Ambient,sneakers,casual shirt,earth tones
+Instrumental,Experimental,Jazz,formal shoes,avant-garde attire,sunglasses
+Instrumental,Country,Folk,formal shoes,cowboy boots,wool hat
+Acoustic,Indie,Jazz,comfortable jeans,ankle boots,sunglasses
+Classical,Ambient,Vocal,formal coat,minimalist jewelry,minimalist accessories
+Folk,Blues,Soul/R&B,ankle boots,leather shoes,slim-fit trousers
+Folk,Latin,Other,ankle boots,colorful dress,eclectic mix
+Reggae,Blues,World Music,beads bracelet,leather shoes,ethnic print clothing
+Pop,Country,Acoustic,skinny jeans,wide-brimmed hat,comfortable jeans
+Hip Hop/Rap,Instrumental,Ambient,sneakers,formal shoes,earth tones
+Metal,Country,Soul/R&B,studded belt,wide-brimmed hat,silk scarf
+Easy Listening,Rock,Ambient,relaxed fit clothing,leather jacket,earth tones
+Punk,Classical,Blues,punk jacket,formal coat,leather shoes
