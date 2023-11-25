@@ -67,8 +67,7 @@ def get_top_genres():
         top_artists = sp.current_user_top_artists(limit=50, time_range='short_term')['items']
         genres = extract_genres(sp, top_artists)
         top_genres = Counter(genres).most_common(10)
-        print(top_genres)
-        genre_strings = [genre_tuple[0] for genre_tuple in top_genres]
+
         broad_genres = []
         for genre in top_genres:
             broad_genre = get_broad_genre(genre[0], genre_lookup_table)
