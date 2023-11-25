@@ -1,15 +1,19 @@
 from flask import Flask, render_template, redirect, request, session, url_for
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 app = Flask(__name__)
-app.secret_key = 'your_secret_key'  # Change this to a secret key of your choice
+app.secret_key = os.getenv('FLASK_SECRET_KEY')
 
-client_id = 'abcdc6ec5e66488ab295abb3a4401917'
-client_secret = '9ed30e1571364288b2a8a1b690f2ea91'
+client_id = os.getenv('SPOTIFY_CLIENT_ID')
+client_secret = os.getenv('SPOTIFY_CLIENT_SECRET')
 
 # Define the SpotifyOAuth instance
-sp_oauth = SpotifyOAuth(client_id, client_secret, redirect_uri='http://localhost:8888/callback', scope='user-library-read user-top-read')
+sp_oauth = SpotifyOAuth(client_id, client_secret, redirect_uri=os.getenv('SPOTIFY_REDIRECT_URI'), scope='user-library-read user-top-read')
 
 @app.route('/')
 def show_top_tracks():
@@ -49,4 +53,4 @@ def generate_html(user, top_tracks):
     return html_content
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, port=8888)
