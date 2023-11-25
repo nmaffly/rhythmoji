@@ -34,6 +34,12 @@
                         <li>{{ genre }} ({{ count }})</li>
                     {% endfor %}
                 </ul>
+                <h2>Broad Genres</h2>
+                <ul>
+                    {% for genre in broad_genres %}
+                        <li>{{ genre }}</li>
+                    {% endfor %}
+                </ul>
             </div>
         </section>
 
