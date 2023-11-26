@@ -64,33 +64,81 @@ def get_top_genres():
         if not token_info:
             raise Exception("User not logged in")
         sp = spotipy.Spotify(auth=token_info['access_token'])
-        top_artists = sp.current_user_top_artists(limit=50, time_range='short_term')['items']
+        top_artists = sp.current_user_top_artists(limit=50, time_range='medium_term')['items']
         genres = extract_genres(sp, top_artists)
         top_genres = Counter(genres).most_common(10)
 
-        broad_genres = []
-        for genre in top_genres:
-            broad_genre = get_broad_genre(genre[0], genre_lookup_table)
-            broad_genre_tuple = (broad_genre, genre[1])
-            
-            genre_exists = False
-
-            for i, (_genre, _count) in enumerate(broad_genres):
-                if _genre == broad_genre_tuple[0]:
-                    # Update the count in the tuple
-                    broad_genres[i] = (_genre, _count + broad_genre_tuple[1])
-                    genre_exists = True
-                    break  # Break the loop once the update is done
-                    
-            if not genre_exists:
-                broad_genres.append(broad_genre_tuple)
+        broad_genres = categorize_subgenres(top_genres)
+        
+        assigned_clothing = assign_clothing(broad_genres)
 
         avatar_description = generate_avatar_description(top_genres)
         
-        return render_template('top_genres.html', top_genres=top_genres, avatar_description=avatar_description, broad_genres=broad_genres)
+        return render_template('top_genres.html', top_genres=top_genres, avatar_description=avatar_description, broad_genres=broad_genres, assigned_clothing=assigned_clothing)
     except Exception as e:
         print(f"An exception occurred: {str(e)}")
         return redirect('/')
+
+def categorize_subgenres(top_genres):
+    broad_genres = []
+    for genre in top_genres:
+        broad_genre = get_broad_genre(genre[0], genre_lookup_table)
+        broad_genre_tuple = (broad_genre, genre[1])
+
+        genre_exists = False
+
+        for i, (_genre, _count) in enumerate(broad_genres):
+            if _genre == broad_genre_tuple[0]:
+                # Update the count in the tuple
+                broad_genres[i] = (_genre, _count + broad_genre_tuple[1])
+                genre_exists = True
+                break  # Break the loop once the update is done
+                
+        if not genre_exists:
+            broad_genres.append(broad_genre_tuple)
+
+    return get_category_proporions(broad_genres)
+
+def get_category_proporions(broad_genres):
+    total = sum(genre[1] for genre in broad_genres)
+    
+    for i, genre in enumerate(broad_genres):
+        percentage = round((genre[1] / total) * 100)
+        broad_genres[i] = (genre[0], percentage)
+
+    broad_genres = sorted(broad_genres, key=lambda x: x[1], reverse=True)
+    print(broad_genres)
+
+    return broad_genres
+
+def assign_clothing(broad_genres):
+    clothing_categories = ['Shirts', 'Shoes', 'Pants', 'Headwear', 'Accessories']
+
+    assigned_items = []
+
+    if len(broad_genres) == 1:
+        top_genre = broad_genres[0][0]
+        assigned_items = {('Shirt', top_genre), ('Shoes', top_genre),
+                          ('Pants', top_genre), ('Headwear', top_genre),
+                          ('Accessories', top_genre)}
+    elif len(broad_genres) == 2:
+        assigned_items = {('Shirt', broad_genres[0][0]), ('Shoes', broad_genres[0][0]),
+                          ('Headwear', broad_genres[0][0]), ('Pants', broad_genres[1][0]),
+                          ('Accessories', broad_genres[1][0])}
+    elif len(broad_genres) == 3:
+        assigned_items = {('Shirt', broad_genres[0][0]), ('Shoes', broad_genres[0][0]),
+                          ('Headwear', broad_genres[1][0]), ('Pants', broad_genres[1][0]),
+                          ('Accessories', broad_genres[2][0])}
+    elif len(broad_genres) == 4:
+        assigned_items = {('Shirt', broad_genres[0][0]), ('Shoes', broad_genres[0][0]),
+                          ('Headwear', broad_genres[1][0]), ('Pants', broad_genres[2][0]),
+                          ('Accessories', broad_genres[3][0])}
+    else:
+        assigned_items = {('Shirt', broad_genres[0][0]), ('Shoes', broad_genres[1][0]),
+                          ('Headwear', broad_genres[2][0]), ('Pants', broad_genres[3][0]),
+                          ('Accessories', broad_genres[4][0])}
+
+    return assigned_items
 
 def extract_genres(sp, top_artists):
     genres = []

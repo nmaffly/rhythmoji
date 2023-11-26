@@ -36,8 +36,14 @@
                 </ul>
                 <h2>Broad Genres</h2>
                 <ul>
-                    {% for genre in broad_genres %}
-                        <li>{{ genre }}</li>
+                    {% for genre, count in broad_genres %}
+                        <li>{{ genre }}: {{ count }}%</li>
+                    {% endfor %}
+                </ul>
+                <h2>Clothing assignemnts</h2>
+                <ul>
+                    {% for clothing,genre in assigned_clothing %}
+                        <li>{{ clothing }}: {{ genre }}</li>
                     {% endfor %}
                 </ul>
             </div>

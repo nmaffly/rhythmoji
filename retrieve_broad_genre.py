@@ -19,6 +19,7 @@ file_path = 'sorted_genres_for_search.json'
 genre_data = load_genre_data(file_path)
 genre_lookup_table = create_lookup_table(genre_data)
 
-input_subgenre = "Abstract Beats"
-broad_genre = get_broad_genre(input_subgenre, genre_lookup_table)
-print(f"The broad genre for '{input_subgenre}' is '{broad_genre}'.")
+#Test code: uncomment to test
+#input_subgenre = "Abstract Beats"
+#broad_genre = get_broad_genre(input_subgenre, genre_lookup_table)
+#print(f"The broad genre for '{input_subgenre}' is '{broad_genre}'.")
