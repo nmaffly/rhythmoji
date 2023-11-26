@@ -4,18 +4,30 @@
     <title>Rhythmoji</title>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
     <style>
+        /* Your CSS styles here */
         body {
             font-family: 'Montserrat', sans-serif;
             background-color: #ffffff;
             color: #333;
             margin: 0;
-            padding: 60px;
-            position: relative; /* Needed for absolute positioning of the image */
+            padding: 0;
+            overflow-x: hidden; /* Hide horizontal scrollbar */
         }
 
-        .content {
+        .container {
+            margin-top:500px
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* 100% of the viewport height */
+        }
+
+        .header-content {
+            text-align: left;
             max-width: 600px;
-            margin-right: auto; /* Align content to the left */
+            margin: 0 20px; /* Add some margin for spacing */
+            margin-right:50px;
         }
 
         h1 {
@@ -42,6 +54,7 @@
             font-size: 1.2em;
             border: 2px solid transparent;
             transition: background-color 0.3s, transform 0.3s, border-color 0.3s;
+            margin-top: 20px; /* Add some top margin for spacing */
         }
 
         .spotify-login-btn:hover {
@@ -51,21 +64,13 @@
             transform: translateY(-5px);
         }
 
-        .image-placeholder {
-        position: fixed; /* Fixed positioning relative to the viewport */
-        right: 0; /* Align with the right edge of the viewport */
-        bottom: 0; /* Align with the bottom edge of the viewport */
-        max-width: 75%;
-        height: auto;
-        max-height: 500px; /* Maximum height */
-        border-radius: 15px;
-        }
-
         .image-placeholder img {
-        width: 100%; /* Ensure the image takes the full width of its container */
-        height: auto; /* Maintain aspect ratio */
+            max-width: 70%;
+            max-height: 50%;
+            margin-top:-200px;
+            margin-left:900px;
+            margin-bottom:100px;
         }
-
 
         .main-nav ul {
             list-style: none;
@@ -84,53 +89,52 @@
         .main-nav a:hover {
             color: #2193b0;
         }
-        .rhythmoji-container {
-    position: relative;
-    text-align: center;
-}
 
-    #rhythmoji {
-        font-size: 2em;
-        /* Additional styling for Rhythmoji text */
-    }
-
-    .animated-notes .note {
-        position: absolute;
-        font-size: 1.5em;
-        /* Basic styling for notes */
-        animation: orbit 5s linear infinite;
-        /* Adjust size, color, etc., as needed */
-    }
-
-    /* Define keyframes for the orbit animation */
-    @keyframes orbit {
-        0% { transform: rotate(0deg) translateX(100px); }
-        100% { transform: rotate(360deg) translateX(100px); }
-    }
-
+        /* "About" section styling */
+        #about {
+            text-align: center;
+            padding: 60px;
+            background-color: #1DB954;
+            color: white;
+            margin-top:-100px;
+        }
     </style>
+    <script>
+        // JavaScript function to scroll to the "About" section
+        function scrollToAbout() {
+            const aboutSection = document.getElementById("about");
+            aboutSection.scrollIntoView({ behavior: "smooth" });
+        }
+    </script>
 </head>
 <body>
     <header>
         <nav class="main-nav">
             <ul>
-                <li><a href="/about">About</a></li>
+                <!-- Use anchor links to scroll to the "about" section -->
+                <li><a href="javascript:void(0);" onclick="scrollToAbout()">About</a></li>
                 <li><a href="/privacy">Privacy</a></li>
                 <li><a href="/donate">Buy Us a Coffee</a></li>
             </ul>
         </nav>
     </header>
-    <div class="content">
-        <h1>Rhythmoji</h1>
-        
-        <p>Explore your music taste and discover new tunes with Rhythmoji. Connect with Spotify to begin.</p>
-        <a href="/login" class="spotify-login-btn">Login with Spotify</a>
+    <div class="container">
+        <div class="header-content">
+            <h1>Rhythmoji</h1>
+            
+            <p>Discover your Spotify avatar at Rhythmoji — a human representation of your listening habits.</p>
+            <a href="/login" class="spotify-login-btn">Login with Spotify</a>
+        </div>
+        <div class="image-placeholder">
+            <img src="/static/updatedImage.jpg" alt="Placeholder Image">
+        </div>
     </div>
-    <div class="image-placeholder">
-        <img src="walkingrhythomoij.png" alt="Placeholder Image">
-    </div>
-    <div class="music-notes">
-        <!-- Animated music notes or other graphics -->
+
+    <!-- "About" section starts here -->
+    <div id="about">
+        <h2>About Us</h2>
+        <p>Your description here.</p>
+        <p>Your co-founder's description here.</p>
     </div>
 </body>
 </html>
