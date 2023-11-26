@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Assigned Fashion Items</title>
+</head>
+<body>
+    <h1>Assigned Fashion Items Based on Top Genres</h1>
+    {% for genre, item in assigned_clothing.items() %}
+        <p>{{ genre }}: {{ item }}</p>
+    {% endfor %}
+</body>
+</html>

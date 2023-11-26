@@ -1,0 +1,12 @@
+{
+    "Hip-Hop/Rap": ["hip hop", "rap", "trap", "gangster rap", "southern hip hop", "old school hip hop", "underground hip hop"],
+    "Rock": ["rock", "alternative rock", "indie rock", "hard rock", "classic rock", "punk rock", "psychedelic rock"],
+    "Pop": ["pop", "art pop", "electropop", "pop rock", "indie pop", "k-pop", "synthpop", "teen pop"],
+    "Electronic": ["electronic", "edm", "house", "techno", "dubstep", "trance", "drum and bass"],
+    "Jazz": ["jazz", "smooth jazz", "jazz fusion", "bebop", "swing", "acid jazz"],
+    "Classical": ["classical", "baroque", "romantic", "symphony", "opera", "contemporary classical"],
+    "Country": ["country", "modern country", "classic country", "country rock", "bluegrass", "outlaw country"],
+    "Blues": ["blues", "delta blues", "chicago blues", "electric blues", "blues rock"],
+    "Reggae": ["reggae", "dancehall", "dub", "roots reggae", "reggaeton"],
+    "Folk": ["folk", "indie folk", "folk rock", "traditional folk", "americana", "singer-songwriter"]
+}
