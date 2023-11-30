@@ -4,112 +4,148 @@
     <title>Rhythmoji</title>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
     <style>
-        /* Your CSS styles here */
         body {
             font-family: 'Montserrat', sans-serif;
             background-color: #ffffff;
             color: #333;
             margin: 0;
             padding: 0;
-            overflow-x: hidden; /* Hide horizontal scrollbar */
+            overflow-x: hidden;
         }
-
+    
         .container {
-    display: flex;
-    justify-content: space-between; /* Space between the two main sections */
-    align-items: center;
-    height: 100vh; /* 100% of the viewport height */
-    min-width: 1200px; /* Set a minimum width */
-}
-
-        .header-content {
-        text-align: left;
-         /* Adjust this value as needed */
-        margin: 0 20px; /* Add some margin for spacing */
+            display: flex;
+            flex-direction: row; /* Horizontally align items */
+            justify-content: space-between;
+            align-items: flex-start;
+            height: auto;
+            padding: 20px;
         }
-
+    
+        .header-content {
+        flex-basis: 25%; /* Reduce the width of the header content */
+        text-align: left;
+        margin: 0 20px;
+    }
+    
         h1 {
             font-family: 'Roboto Slab', serif;
             font-weight: 700;
-            font-size: 4em;
+            margin-top:100px;
+            font-size: 2.5em; /* Adjusted for better scaling */
             color: #1DB954;
             margin-bottom: 10px;
         }
-
+    
         p {
-            font-size: 1.4em;
+            font-size: 1em; /* Adjusted font size */
             color: #555;
         }
-
+    
         .spotify-login-btn {
             display: inline-block;
             background-color: #1DB954;
             color: white;
-            padding: 15px 30px;
-            border-radius: 30px;
+            padding: 10px 20px;
+            border-radius: 20px;
             text-decoration: none;
             font-weight: 400;
-            font-size: 1.2em;
+            font-size: 1em;
             border: 2px solid transparent;
             transition: background-color 0.3s, transform 0.3s, border-color 0.3s;
-            margin-top: 20px; /* Add some top margin for spacing */
+            margin-top: 15px;
         }
-
+    
         .spotify-login-btn:hover {
             background-color: transparent;
             color: #1DB954;
             border-color: #1DB954;
-            transform: translateY(-5px);
+            transform: translateY(-3px);
         }
-
+    
         .image-placeholder img {
-            max-width: 100%; /* Adjust max width */
-            max-height: 80%; /* Adjust max height */
-            margin: 0 auto; /* Center in the placeholder */
-            margin-left:400px;
+            max-width: 60%;
+            height: auto; /* Maintain aspect ratio */
+            margin: 0 auto;
         }
-
+    
         .main-nav {
-        position: absolute;
-        left: 10px; /* Adjust this value to move the menu more to the left */
-        top: 200px;
+            position: absolute; /* Position the nav at the top left */
+            top: 10px;
+            left: 10px;
         }
-
+    
         .main-nav ul {
             list-style: none;
             padding: 0;
             display: flex;
-            gap: 20px;
+            flex-direction: row; /* Horizontal nav items */
+            gap: 10px; /* Smaller gap */
         }
-
+    
         .main-nav li {
-            background-color: #1DB954; /* Green background */
-            border-radius: 5px; /* Rounded corners */
+            background-color: #1DB954;
+            border-radius: 3px;
             transition: background-color 0.3s;
         }
-
+    
         .main-nav a {
             display: block;
-            padding: 10px 15px;
+            padding: 5px 10px; /* Smaller padding */
             text-decoration: none;
-            color: white; /* Text color */
+            color: white;
             font-weight: 400;
             transition: background-color 0.3s;
         }
-
+    
         .main-nav li:hover {
-            background-color: #0f7a3c; /* Darker green on hover */
+            background-color: #0f7a3c;
         }
-
-        /* "About" section styling */
+    
         #about {
             text-align: center;
-            padding: 60px;
+            padding: 30px;
             background-color: #1DB954;
             color: white;
-            margin-top: 100px; /* Adjusted margin */
+            margin-top: 30px;
+        }
+    
+        /* Responsive design with Media Queries */
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column; /* Stack elements for smaller screens */
+            }
+    
+            .header-content, .image-placeholder {
+                flex-basis: 100%; /* Full width for smaller screens */
+            }
+    
+            .main-nav {
+                position: static; /* Adjust position for mobile */
+                text-align: center; /* Center align the nav */
+                margin-bottom: 20px;
+            }
+    
+            .main-nav ul {
+                flex-direction: column; /* Stack the nav items */
+            }
+
+            .image-placeholder {
+                flex-grow: 1; /* Allow the image container to grow and fill available space */
+                max-width: 70%; /* Increase the max width */
+                margin-left: auto; /* Align the image to the right in responsive mode */
+                margin-right: 0; /* Remove right margin in responsive mode */
+            }
+
+            .image-placeholder {
+            max-width: 60%;
+            height: auto; /* Maintain aspect ratio */
+            margin-left: auto; /* Align the image to the right */
+            margin-right: 0; /* Remove right margin */
+        }
         }
     </style>
+       
     <script>
         // JavaScript function to scroll to the "About" section
         function scrollToAbout() {
