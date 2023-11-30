@@ -15,7 +15,7 @@
     
         .container {
             display: flex;
-            flex-direction: row; /* Horizontally align items */
+            flex-direction: row;
             justify-content: space-between;
             align-items: flex-start;
             height: auto;
@@ -23,22 +23,22 @@
         }
     
         .header-content {
-        flex-basis: 25%; /* Reduce the width of the header content */
+    flex-basis: 25%;
         text-align: left;
-        margin: 0 20px;
+        margin: 100px 20px 0; /* Increased top margin */
     }
     
         h1 {
             font-family: 'Roboto Slab', serif;
             font-weight: 700;
             margin-top:100px;
-            font-size: 2.5em; /* Adjusted for better scaling */
+            font-size: 3em; /* Increased font size */
             color: #1DB954;
             margin-bottom: 10px;
         }
     
         p {
-            font-size: 1em; /* Adjusted font size */
+            font-size: 1.2em; /* Increased font size */
             color: #555;
         }
     
@@ -46,11 +46,11 @@
             display: inline-block;
             background-color: #1DB954;
             color: white;
-            padding: 10px 20px;
+            padding: 15px 25px; /* Increased padding */
             border-radius: 20px;
             text-decoration: none;
             font-weight: 400;
-            font-size: 1em;
+            font-size: 1.2em; /* Increased font size */
             border: 2px solid transparent;
             transition: background-color 0.3s, transform 0.3s, border-color 0.3s;
             margin-top: 15px;
@@ -64,23 +64,37 @@
         }
     
         .image-placeholder img {
-            max-width: 60%;
-            height: auto; /* Maintain aspect ratio */
-            margin: 0 auto;
-        }
-    
+        max-width: 80%;
+        height: auto;
+        margin-left: auto;
+        display: block;
+    }
+
+    .image-placeholder {
+        margin-top: 70px; /* Increased top margin for the image container */
+    }
         .main-nav {
-            position: absolute; /* Position the nav at the top left */
-            top: 10px;
-            left: 10px;
+            position: absolute;
+            top: 150px; /* Increased space from the top */
+            left: 35px;
+
+        }
+
+        .main-nav a {
+            display: block;
+            padding: 10px 15px; /* Increased padding */
+            text-decoration: none;
+            color: white;
+            font-weight: 400;
+            font-size: 1.2em; /* Increased font size */
+            transition: background-color 0.3s;
         }
     
         .main-nav ul {
             list-style: none;
             padding: 0;
             display: flex;
-            flex-direction: row; /* Horizontal nav items */
-            gap: 10px; /* Smaller gap */
+            gap: 10px;
         }
     
         .main-nav li {
@@ -91,7 +105,7 @@
     
         .main-nav a {
             display: block;
-            padding: 5px 10px; /* Smaller padding */
+            padding: 5px 10px;
             text-decoration: none;
             color: white;
             font-weight: 400;
@@ -110,39 +124,29 @@
             margin-top: 30px;
         }
     
-        /* Responsive design with Media Queries */
         @media (max-width: 768px) {
             .container {
-                flex-direction: column; /* Stack elements for smaller screens */
+                flex-direction: column;
             }
     
             .header-content, .image-placeholder {
-                flex-basis: 100%; /* Full width for smaller screens */
+                flex-basis: 100%;
             }
     
             .main-nav {
-                position: static; /* Adjust position for mobile */
-                text-align: center; /* Center align the nav */
+                position: static;
+                text-align: center;
                 margin-bottom: 20px;
             }
     
             .main-nav ul {
-                flex-direction: column; /* Stack the nav items */
+                flex-direction: column;
             }
-
-            .image-placeholder {
-                flex-grow: 1; /* Allow the image container to grow and fill available space */
-                max-width: 70%; /* Increase the max width */
-                margin-left: auto; /* Align the image to the right in responsive mode */
-                margin-right: 0; /* Remove right margin in responsive mode */
+            .image-placeholder img {
+                max-width: 100%; /* Increase the max-width for smaller screens */
+                height: auto; /* Maintain aspect ratio */
+                margin-left: auto; /* Keep the image aligned to the right */
             }
-
-            .image-placeholder {
-            max-width: 60%;
-            height: auto; /* Maintain aspect ratio */
-            margin-left: auto; /* Align the image to the right */
-            margin-right: 0; /* Remove right margin */
-        }
         }
     </style>
        
