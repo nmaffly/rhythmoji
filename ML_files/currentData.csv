@@ -1,0 +1,401 @@
+Genre_1,Genre_2,Genre_3,Shirt,Shoes,Sweater,Pants,Accessories
+Electronic,Rock,Punk,Glowing Purple Band Tee,Glowing Yellow Combat Boots,Futuristic Purple Hoodie,Futuristic Pink Ripped Jeans,Glowing Grey Studded Belt
+Country,Acoustic,Other,Earthy Blue Casual Tee,Rustic Orange Loafers,Earthy Orange Zip-up Hoodie,Denim Pink Casual Jeans,Denim Red Leather Bracelet
+Electronic,World Music,Country,Glowing Red Patterned Shirt,Neon Grey Espadrilles,Metallic Red Hoodie,Glowing Grey Blue Jeans,Glowing Pink LED Bracelet
+Blues,Country,Acoustic,Retro Grey Plain Tee,Worn Green Suede Shoes,Worn Green Knit Sweater,Worn Pink Slacks,Deep Black Leather Bracelet
+Instrumental,Classical,Reggae,Formal White Dress Shirt,Timeless Pink Sandals,Elegant Orange Blazer,Formal Black Cargo Shorts,Timeless Pink Silk Scarf
+Folk,World Music,Classical,Elegant Red Turtleneck,Formal Purple Oxfords,Timeless Red Poncho,Timeless Black Tailored Trousers,Formal Grey Silk Scarf
+Pop,Punk,Jazz,Trendy White Trendy Tee,Glamorous Grey Brogues,Glamorous Orange Leather Jacket,Sparkly Green Pleated Trousers,Trendy Pink Fashion Sunglasses
+Pop,Other,Experimental,Bright Black Abstract Tee,Trendy Green Stylish Sneakers,Bright White Asymmetric Sweater,Trendy Purple Casual Jeans,Glamorous Green Artistic Scarf
+Soul/R&B,Folk,Classical,Timeless Purple Silk Shirt,Sophisticated Purple Ankle Boots,Sophisticated Black Cashmere Sweater,Sophisticated Black Relaxed Fit Pants,Elegant Green Silk Scarf
+Latin,Classical,Acoustic,Sophisticated Orange Plain Tee,Formal Black Dance Shoes,Formal Blue Knit Sweater,Formal Yellow Tailored Trousers,Elegant Orange Leather Bracelet
+Soul/R&B,Country,Blues,Earthy Blue Henley Shirt,Classic Yellow Cowboy Boots,Earthy Purple Vest,Denim Pink Relaxed Fit Pants,Earthy Red Fedora
+Rock,Acoustic,World Music,Vintage Green Band Tee,Leather Blue Espadrilles,Leather Blue Poncho,Leather Yellow Linen Trousers,Studded Black Leather Bracelet
+World Music,Reggae,Punk,Bohemian Pink Plaid Shirt,Rasta Red Espadrilles,Bohemian Red Poncho,Relaxed Orange Linen Trousers,Relaxed Red Choker Necklace
+Ambient,Experimental,Acoustic,Soft Pink Abstract Tee,Relaxed Yellow Loafers,Relaxed Yellow Asymmetric Sweater,Relaxed Purple Chinos,Relaxed White Leather Bracelet
+Pop,Electronic,Easy Listening,Glamorous Grey Graphic Tee,Trendy Blue High-top Sneakers,Sparkly Pink Bomber Jacket,Sparkly Blue Joggers,Glamorous Yellow Fashion Sunglasses
+Country,Instrumental,Soul/R&B,Classic White Flannel Shirt,Earthy Grey Cowboy Boots,Denim Green Blazer,Earthy Purple Relaxed Fit Pants,Earthy White Pocket Square
+Ambient,Soul/R&B,Easy Listening,Unique White Silk Shirt,Unique Yellow Velvet Loafers,Eclectic Pink Velvet Jacket,Novel Green Relaxed Fit Pants,Unique Grey Gold Chain
+Dance,World Music,Metal,Unique Purple Patterned Shirt,Eclectic Yellow Espadrilles,Eclectic Black Poncho,Unconventional Black Linen Trousers,Unconventional White Beaded Necklace
+World Music,Reggae,Folk,Vibrant Red Earthy Tone Tee,Rasta Grey Espadrilles,Relaxed Green Shawl,Vibrant Red Cargo Shorts,Rasta Red Beaded Necklace
+Punk,Electronic,World Music,Neon Red Patterned Shirt,Metallic Purple High-top Sneakers,Metallic Black Leather Jacket,Futuristic Pink Ripped Jeans,Neon Orange Choker Necklace
+Hip Hop/Rap,Soul/R&B,Pop,Sparkly Grey Trendy Tee,Glamorous Blue Velvet Loafers,Bright White Bomber Jacket,Sparkly Green Relaxed Fit Pants,Trendy White Fashion Sunglasses
+Ambient,Other,Instrumental,Unconventional Pink Casual Tee,Eclectic Green Sneakers,Eclectic Red Blazer,Eclectic Grey Dress Pants,Unique Yellow Baseball Cap
+Classical,Reggae,Other,Timeless White Casual Tee,Sophisticated Orange Sneakers,Sophisticated Pink Zip-up Hoodie,Sophisticated Orange Tailored Trousers,Elegant Yellow Rasta Bracelet
+Rock,Dance,Soul/R&B,Grunge Grey Silk Shirt,Leather Yellow Leather Boots,Grunge White Velvet Jacket,Leather Purple Relaxed Fit Pants,Grunge Blue Gold Chain
+Country,Latin,Electronic,Denim Green Brightly Colored Shirt,Denim Orange High-top Sneakers,Denim Green Hoodie,Denim Purple Joggers,Classic Orange LED Bracelet
+Blues,Ambient,Soul/R&B,Soulful Purple Silk Shirt,Soulful White Velvet Loafers,Worn Pink Velvet Jacket,Retro Purple Relaxed Fit Pants,Deep Black Gold Chain
+Soul/R&B,Metal,Experimental,Novel Green Silk Shirt,Novel Grey Velvet Loafers,Unique Black Asymmetric Sweater,Eclectic Purple Relaxed Fit Pants,Unconventional Blue Artistic Scarf
+Rock,Other,Country,Leather Purple Band Tee,Studded Grey Leather Boots,Leather Grey Zip-up Hoodie,Leather Yellow Blue Jeans,Leather Pink Studded Belt
+Hip Hop/Rap,Latin,Folk,Eclectic Purple Earthy Tone Tee,Unconventional Yellow Ankle Boots,Eclectic Black Shawl,Unique Orange Salsa Pants,Unconventional White Boho Necklace
+Reggae,World Music,Other,Rasta Black Rasta Tank,Vibrant White Espadrilles,Relaxed Pink Zip-up Hoodie,Relaxed Black Casual Jeans,Vibrant Grey Baseball Cap
+Soul/R&B,Pop,Electronic,Glamorous Grey Silk Shirt,Bright Blue High-top Sneakers,Sparkly Red Velvet Jacket,Glamorous Red Relaxed Fit Pants,Glamorous Green Gold Chain
+Rock,Folk,Easy Listening,Leather White Earthy Tone Tee,Studded Yellow Ankle Boots,Studded White Denim Jacket,Studded Grey Corduroy Pants,Leather Yellow Boho Necklace
+Acoustic,Classical,Folk,Soft Pink Plain Tee,Relaxed White Loafers,Natural Blue Knit Sweater,Relaxed Grey Corduroy Pants,Handmade Purple Silk Scarf
+Jazz,Vocal,Hip Hop/Rap,Unconventional White Button-up Shirt,Eclectic White Brogues,Unconventional Grey Pullover,Eclectic Red Pleated Trousers,Eclectic Pink Beret
+Jazz,Indie,Acoustic,Soft Purple Button-up Shirt,Natural Black Brogues,Natural Orange Pullover,Soft Purple Pleated Trousers,Relaxed Grey Beret
+Classical,Other,World Music,Timeless White Casual Tee,Timeless Black Oxfords,Formal Grey Poncho,Sophisticated Red Linen Trousers,Timeless Grey Silk Scarf
+Latin,Punk,Jazz,Unconventional Red Plaid Shirt,Unique Green Brogues,Unconventional Black Light Jacket,Novel Yellow Salsa Pants,Eclectic White Beret
+Instrumental,Easy Listening,Folk,Novel Green Dress Shirt,Novel White Ankle Boots,Unconventional White Shawl,Unique Pink Corduroy Pants,Unconventional Pink Boho Necklace
+Blues,World Music,Classical,Soulful White Henley Shirt,Retro White Oxfords,Worn Black Poncho,Retro Black Slacks,Soulful Purple Silk Scarf
+Experimental,Classical,Instrumental,Timeless Blue Abstract Tee,Elegant Purple Oxfords,Timeless Green Cashmere Sweater,Elegant Green Dress Pants,Formal Grey Silk Scarf
+Folk,Jazz,Classical,Formal Yellow Earthy Tone Tee,Sophisticated Black Ankle Boots,Sophisticated Pink Shawl,Formal Black Tailored Trousers,Formal Yellow Silk Scarf
+Metal,Jazz,Country,Classic Black Flannel Shirt,Classic Green Brogues,Denim Yellow Pullover,Earthy Black Pleated Trousers,Earthy Orange Beret
+Soul/R&B,Pop,Classical,Glamorous Yellow Turtleneck,Sparkly Red Velvet Loafers,Trendy Blue Cashmere Sweater,Bright Pink Relaxed Fit Pants,Trendy Black Gold Chain
+Hip Hop/Rap,Pop,Latin,Sparkly Pink Brightly Colored Shirt,Sparkly Yellow Stylish Sneakers,Glamorous Purple Light Jacket,Sparkly Green Skinny Jeans,Trendy Grey Fedora Hat
+Vocal,Other,Hip Hop/Rap,Unconventional Blue Casual Tee,Unique Purple Sneakers,Unique Grey Zip-up Hoodie,Unique Red Casual Jeans,Eclectic Green Baseball Cap
+Country,Instrumental,Ambient,Denim Purple Flannel Shirt,Rustic Red Cowboy Boots,Denim Orange Cardigan,Rustic Blue Blue Jeans,Classic Grey Pocket Square
+Jazz,Hip Hop/Rap,Rock,Grunge Yellow Button-up Shirt,Studded Grey Brogues,Vintage Green Pullover,Studded Black Pleated Trousers,Studded Grey Studded Belt
+Ambient,Indie,Reggae,Rasta White Rasta Tank,Relaxed Green Sandals,Relaxed Purple Rasta Beanie,Vibrant Grey Cargo Shorts,Bohemian Purple Rasta Bracelet
+Punk,Latin,Metal,Novel Blue Brightly Colored Shirt,Unconventional Black Combat Boots,Unconventional White Light Jacket,Unconventional Green Ripped Jeans,Eclectic Purple Choker Necklace
+Experimental,Electronic,Other,Metallic Grey Abstract Tee,Metallic White High-top Sneakers,Neon Yellow Hoodie,Metallic White Wide-leg Pants,Neon Purple Artistic Scarf
+Other,Experimental,Blues,Unconventional Grey Henley Shirt,Novel Green Avant-garde Shoes,Eclectic Red Vest,Novel Orange Slacks,Unique Yellow Baseball Cap
+Easy Listening,Vocal,Ambient,Unconventional Blue Abstract Tee,Unconventional White White canvas shoes,Eclectic Green Transparent rain jacket,Unconventional Green Light blue jeans,Unique Grey None
+Easy Listening,Experimental,Punk,Eclectic Pink Abstract Tee,Novel Blue Combat Boots,Novel Black Asymmetric Sweater,Unconventional Yellow Wide-leg Pants,Eclectic Pink Artistic Scarf
+Latin,Blues,Pop,Worn Black Brightly Colored Shirt,Worn Blue Dance Shoes,Deep Blue Vest,Soulful Black Salsa Pants,Deep Yellow Fedora Hat
+Classical,Easy Listening,Metal,Formal Yellow Turtleneck,Formal White Oxfords,Timeless Green Cashmere Sweater,Elegant Blue Tailored Trousers,Timeless Blue Silk Scarf
+Acoustic,Punk,Blues,Relaxed Black Plain Tee,Handmade Red Loafers,Relaxed Red Knit Sweater,Relaxed Yellow Ripped Jeans,Soft White Fedora
+Other,Vocal,Instrumental,Eclectic Orange Dress Shirt,Novel Grey Dress Shoes,Unconventional Green Blazer,Unique Pink Dress Pants,Unconventional Green Pocket Square
+Country,Punk,Classical,Denim Yellow Plaid Shirt,Earthy Red Oxfords,Classic Red Leather Jacket,Earthy White Tailored Trousers,Earthy Black Choker Necklace
+Experimental,Blues,Electronic,Worn Green Abstract Tee,Soulful Green Avant-garde Shoes,Soulful Pink Hoodie,Retro Blue Slacks,Soulful Orange LED Bracelet
+Blues,Easy Listening,Dance,Retro Black Henley Shirt,Worn Red Suede Shoes,Deep Grey Vest,Soulful Red Slacks,Deep Blue Fedora
+Ambient,Vocal,Easy Listening,Unique Black White Tee,Eclectic Red Black canvas shoes,Eclectic Green Blazer,Unconventional Black Dark wash jeans,Novel Yellow Silver watch
+Indie,Classical,Hip Hop/Rap,Elegant Yellow Turtleneck,Elegant Orange Oxfords,Formal Yellow Cashmere Sweater,Elegant Green Tailored Trousers,Sophisticated Purple Silk Scarf
+Rock,Soul/R&B,Folk,Grunge Blue Earthy Tone Tee,Studded White Velvet Loafers,Leather Green Shawl,Leather Purple Black Jeans,Vintage Purple Studded Belt
+Vocal,Experimental,Punk,Novel White Abstract Tee,Eclectic Green Avant-garde Shoes,Novel Grey Asymmetric Sweater,Unconventional Yellow Wide-leg Pants,Novel Orange Choker Necklace
+Acoustic,World Music,Dance,Natural Yellow Patterned Shirt,Relaxed Orange Loafers,Natural White Knit Sweater,Soft Black Chinos,Relaxed Orange Leather Bracelet
+Metal,Other,Blues,Unique Black Casual Tee,Novel Blue Suede Shoes,Eclectic White Zip-up Hoodie,Eclectic Pink Slacks,Unconventional Red Baseball Cap
+Country,Pop,Dance,Rustic Black Trendy Tee,Earthy Black Stylish Sneakers,Earthy Grey Bomber Jacket,Earthy White Skinny Jeans,Classic Purple Fashion Sunglasses
+Vocal,Country,Latin,Denim White Brightly Colored Shirt,Earthy Red Dance Shoes,Classic Black Cardigan,Rustic White Blue Jeans,Rustic Green Cowboy Hat
+Country,Instrumental,Electronic,Earthy Orange Graphic Tee,Rustic White Cowboy Boots,Denim Purple Hoodie,Earthy Black Joggers,Earthy Pink LED Bracelet
+Folk,Rock,Electronic,Studded Red Band Tee,Grunge Grey High-top Sneakers,Studded White Denim Jacket,Studded Black Corduroy Pants,Leather Pink Boho Necklace
+Country,Acoustic,Ambient,Denim Red Flannel Shirt,Earthy Black Cowboy Boots,Classic Pink Knit Sweater,Classic Pink Blue Jeans,Classic White Leather Bracelet
+Country,Easy Listening,Jazz,Earthy Black Button-up Shirt,Denim Black Brogues,Rustic Orange Cardigan,Classic Blue Blue Jeans,Rustic White Beret
+World Music,Experimental,Pop,Glamorous White Patterned Shirt,Trendy Red Espadrilles,Glamorous Pink Asymmetric Sweater,Glamorous Purple Skinny Jeans,Sparkly Black Beaded Necklace
+Hip Hop/Rap,Acoustic,Country,Relaxed Red Plain Tee,Natural Green Cowboy Boots,Natural Green Cardigan,Relaxed White Chinos,Relaxed Green Leather Bracelet
+Rock,Ambient,Hip Hop/Rap,Vintage Yellow Band Tee,Vintage Orange Leather Boots,Grunge Purple Denim Jacket,Vintage Blue Black Jeans,Leather White Studded Belt
+Easy Listening,Vocal,Instrumental,Eclectic Pink Dress Shirt,Eclectic Purple Dress Shoes,Novel White Blazer,Novel Grey Dress Pants,Novel Purple Pocket Square
+Folk,Latin,Metal,Novel Pink Brightly Colored Shirt,Eclectic Orange Ankle Boots,Eclectic Purple Light Jacket,Eclectic White Corduroy Pants,Novel White Fedora Hat
+Punk,Classical,Other,Formal Grey Casual Tee,Formal Green Combat Boots,Formal Grey Leather Jacket,Elegant White Casual Jeans,Elegant Black Choker Necklace
+Vocal,Soul/R&B,Classical,Timeless Grey Turtleneck,Elegant Black Velvet Loafers,Sophisticated Purple Velvet Jacket,Elegant Blue Relaxed Fit Pants,Sophisticated Blue Gold Chain
+Punk,Classical,Folk,Formal Red Earthy Tone Tee,Elegant Blue Oxfords,Sophisticated Blue Leather Jacket,Elegant Purple Tailored Trousers,Sophisticated Grey Choker Necklace
+Classical,Country,Indie,Sophisticated White Turtleneck,Elegant White Oxfords,Sophisticated Purple Cardigan,Timeless White Tailored Trousers,Elegant Green Cowboy Hat
+Instrumental,Acoustic,Rock,Natural Pink Plain Tee,Relaxed Black Leather Boots,Soft Yellow Knit Sweater,Handmade White Chinos,Natural Yellow Pocket Square
+Ambient,Pop,Other,Bright Purple Casual Tee,Bright Red Stylish Sneakers,Glamorous Green Zip-up Hoodie,Glamorous Red Skinny Jeans,Trendy Green Baseball Cap
+Instrumental,Classical,Jazz,Elegant Red Dress Shirt,Formal Grey Oxfords,Timeless Orange Cashmere Sweater,Timeless Blue Dress Pants,Sophisticated Black Beret
+Latin,Rock,Easy Listening,Leather Yellow Brightly Colored Shirt,Vintage Black Dance Shoes,Leather Yellow Light Jacket,Grunge Black Black Jeans,Vintage Black Fedora Hat
+Jazz,Vocal,Metal,Novel Black Button-up Shirt,Unconventional Purple Brogues,Unconventional Grey Pullover,Eclectic Yellow Pleated Trousers,Novel Black Beret
+Latin,Hip Hop/Rap,Blues,Deep Blue Brightly Colored Shirt,Deep Purple Dance Shoes,Soulful Black Vest,Soulful Yellow Slacks,Worn White Fedora Hat
+Indie,Experimental,Blues,Soulful Blue Abstract Tee,Soulful Yellow Avant-garde Shoes,Worn Blue Asymmetric Sweater,Retro Pink Wide-leg Pants,Worn Orange Artistic Scarf
+Punk,Pop,Vocal,Bright Purple Trendy Tee,Trendy Green Stylish Sneakers,Glamorous Purple Leather Jacket,Trendy Pink Ripped Jeans,Sparkly Purple Fashion Sunglasses
+Pop,World Music,Country,Bright Green Patterned Shirt,Bright Green Stylish Sneakers,Trendy Grey Cardigan,Glamorous Yellow Linen Trousers,Trendy White Cowboy Hat
+Folk,Metal,Indie,Novel White Earthy Tone Tee,Unconventional Purple Ankle Boots,Unique Yellow Shawl,Unique Pink Corduroy Pants,Unique Red Boho Necklace
+Punk,Folk,Acoustic,Relaxed Blue Earthy Tone Tee,Handmade Red Ankle Boots,Relaxed Green Shawl,Relaxed White Ripped Jeans,Soft White Boho Necklace
+Electronic,Ambient,Pop,Futuristic Yellow Graphic Tee,Metallic Yellow Stylish Sneakers,Metallic Green Bomber Jacket,Metallic Grey Skinny Jeans,Futuristic Blue Fashion Sunglasses
+Electronic,Country,Classical,Futuristic Orange Turtleneck,Metallic Pink Cowboy Boots,Glowing Orange Hoodie,Metallic Pink Joggers,Metallic Purple Silk Scarf
+Reggae,Acoustic,Hip Hop/Rap,Relaxed White Plain Tee,Rasta Yellow Loafers,Vibrant Black Rasta Beanie,Bohemian White Chinos,Rasta Blue Rasta Bracelet
+Other,World Music,Electronic,Unique Yellow Casual Tee,Unique Black Sneakers,Unconventional Orange Zip-up Hoodie,Unconventional Blue Linen Trousers,Novel Green Baseball Cap
+Acoustic,Metal,Electronic,Natural Green Graphic Tee,Relaxed Pink High-top Sneakers,Relaxed Green Knit Sweater,Relaxed Yellow Chinos,Handmade Orange Leather Bracelet
+Easy Listening,Instrumental,Dance,Novel Black Dress Shirt,Unconventional Green Dress Shoes,Novel Orange Blazer,Unconventional Orange Dress Pants,Unique White Pocket Square
+Country,Punk,Easy Listening,Rustic Blue Flannel Shirt,Earthy Grey Cowboy Boots,Classic White Leather Jacket,Earthy Orange Blue Jeans,Earthy Orange Cowboy Hat
+Classical,Rock,Reggae,Sophisticated Orange Rasta Tank,Timeless Purple Sandals,Timeless White Cashmere Sweater,Elegant Red Black Jeans,Timeless Black Studded Belt
+Folk,Vocal,Pop,Trendy Pink Trendy Tee,Glamorous Orange Ankle Boots,Glamorous White Bomber Jacket,Trendy Pink Corduroy Pants,Sparkly Green Fashion Sunglasses
+Blues,Country,Punk,Worn Grey Plaid Shirt,Worn Grey Combat Boots,Worn Pink Leather Jacket,Worn Pink Slacks,Retro Purple Cowboy Hat
+Punk,Latin,Acoustic,Relaxed Green Plaid Shirt,Soft Purple Loafers,Relaxed Pink Light Jacket,Natural Orange Salsa Pants,Soft Pink Leather Bracelet
+Soul/R&B,Folk,Metal,Unconventional Red Earthy Tone Tee,Unconventional Blue Ankle Boots,Novel Green Shawl,Unique Green Relaxed Fit Pants,Novel Orange Gold Chain
+Folk,Metal,Acoustic,Relaxed Orange Earthy Tone Tee,Relaxed Grey Ankle Boots,Natural Purple Knit Sweater,Soft Grey Corduroy Pants,Relaxed White Leather Bracelet
+Other,Metal,Reggae,Unique Red Casual Tee,Novel Yellow Sneakers,Unique Blue Rasta Beanie,Unconventional Orange Casual Jeans,Eclectic Black Baseball Cap
+Ambient,Acoustic,Metal,Handmade Grey Plain Tee,Natural Pink Loafers,Handmade Yellow Knit Sweater,Natural Blue Chinos,Soft White Leather Bracelet
+Easy Listening,Latin,Soul/R&B,Eclectic Black Silk Shirt,Novel Blue Dance Shoes,Unconventional Purple Light Jacket,Unique Pink Salsa Pants,Unique White Fedora Hat
+Ambient,Vocal,Hip Hop/Rap,Novel Purple Rap tee,Unique Purple High-top Sneakers,Eclectic White Blazer,Eclectic Green Relaxed Fit Pants,Eclectic Yellow Fashion Sunglasses
+Soul/R&B,Hip Hop/Rap,Easy Listening,Eclectic Black Silk Shirt,Eclectic Black Velvet Loafers,Unconventional Orange Velvet Jacket,Novel Pink Relaxed Fit Pants,Novel Yellow Gold Chain
+Hip Hop/Rap,Classical,Reggae,Timeless Green Turtleneck,Sophisticated Yellow Oxfords,Elegant Red Rasta Beanie,Timeless Green Cargo Shorts,Timeless Purple Silk Scarf
+Country,World Music,Other,Rustic Pink Casual Tee,Classic Purple Cowboy Boots,Earthy Black Zip-up Hoodie,Rustic Purple Blue Jeans,Classic Pink Cowboy Hat
+Classical,Pop,Experimental,Timeless Orange Trendy Tee,Sophisticated Yellow Oxfords,Timeless Orange Cashmere Sweater,Sophisticated Blue Tailored Trousers,Elegant Grey Artistic Scarf
+Blues,Country,Soul/R&B,Retro Grey Flannel Shirt,Worn Orange Velvet Loafers,Deep Pink Vest,Worn Purple Relaxed Fit Pants,Soulful Blue Fedora
+Acoustic,Rock,Jazz,Soft Grey Band Tee,Handmade Blue Leather Boots,Relaxed Yellow Knit Sweater,Relaxed Blue Pleated Trousers,Relaxed Black Beret
+Blues,Instrumental,Country,Worn Green Henley Shirt,Retro Grey Dress Shoes,Soulful Black Vest,Deep Black Dress Pants,Deep Green Fedora
+Instrumental,Pop,Folk,Glamorous Red Dress Shirt,Sparkly White Ankle Boots,Trendy Green Bomber Jacket,Bright Purple Skinny Jeans,Trendy Orange Pocket Square
+Instrumental,Soul/R&B,Classical,Formal Blue Silk Shirt,Sophisticated Pink Velvet Loafers,Timeless White Blazer,Timeless Pink Relaxed Fit Pants,Sophisticated Purple Gold Chain
+Country,Instrumental,Other,Rustic White Casual Tee,Earthy Grey Dress Shoes,Classic Purple Blazer,Classic Blue Blue Jeans,Denim Pink Baseball Cap
+Folk,Reggae,Indie,Vibrant White Rasta Tank,Relaxed Grey Ankle Boots,Bohemian Grey Shawl,Relaxed Grey Cargo Shorts,Vibrant Green Boho Necklace
+Vocal,Ambient,Experimental,Eclectic Purple Abstract Tee,Unique Purple Avant-garde Shoes,Eclectic Grey Asymmetric Sweater,Unconventional Orange Wide-leg Pants,Unique Red Artistic Scarf
+Acoustic,Dance,Other,Relaxed Green Casual Tee,Soft White Loafers,Relaxed Purple Zip-up Hoodie,Soft Pink Casual Jeans,Soft Red Baseball Cap
+Punk,Blues,Ambient,Worn Pink Plaid Shirt,Soulful Red Suede Shoes,Deep Red Vest,Retro Blue Slacks,Soulful Orange Fedora
+Metal,Electronic,Other,Neon Green Casual Tee,Glowing Green Sneakers,Neon Orange Zip-up Hoodie,Futuristic Green Casual Jeans,Metallic Yellow LED Bracelet
+Instrumental,Easy Listening,Dance,Eclectic Grey Dress Shirt,Novel Purple Dress Shoes,Unconventional White Blazer,Unconventional Blue Dress Pants,Unique Green Pocket Square
+Electronic,Easy Listening,Metal,Metallic Black Graphic Tee,Neon Red High-top Sneakers,Futuristic Orange Hoodie,Futuristic Grey Joggers,Metallic Green LED Bracelet
+Dance,Reggae,Ambient,Rasta Purple Rasta Tank,Bohemian Grey Sandals,Bohemian Grey Rasta Beanie,Rasta Pink Cargo Shorts,Vibrant Yellow Rasta Bracelet
+World Music,Blues,Country,Retro Black Flannel Shirt,Retro Green Espadrilles,Soulful White Vest,Deep Orange Blue Jeans,Worn Pink Fedora
+Metal,Reggae,Jazz,Bohemian Grey Button-up Shirt,Rasta Purple Brogues,Relaxed Purple Pullover,Rasta Orange Pleated Trousers,Rasta Green Rasta Bracelet
+Electronic,Pop,Rock,Neon White Band Tee,Neon Green Leather Boots,Neon White Denim Jacket,Glowing Black Black Jeans,Futuristic Black Fashion Sunglasses
+Metal,Experimental,Country,Denim Orange Flannel Shirt,Earthy Orange Avant-garde Shoes,Rustic Grey Asymmetric Sweater,Classic Orange Wide-leg Pants,Rustic Blue Artistic Scarf
+Metal,Classical,Instrumental,Formal White Turtleneck,Elegant Pink Dress Shoes,Formal Grey Blazer,Sophisticated Yellow Tailored Trousers,Elegant Grey Pocket Square
+Other,World Music,Ambient,Novel Blue Patterned Shirt,Unconventional White Espadrilles,Novel Blue Poncho,Eclectic Yellow Casual Jeans,Eclectic Blue Beaded Necklace
+Experimental,Pop,World Music,Trendy Blue Trendy Tee,Sparkly Pink Stylish Sneakers,Sparkly White Asymmetric Sweater,Glamorous White Linen Trousers,Glamorous Red Fashion Sunglasses
+Instrumental,Dance,Blues,Deep Yellow Henley Shirt,Soulful Purple Dress Shoes,Worn Black Vest,Retro White Dress Pants,Worn Purple Fedora
+Jazz,Indie,Country,Denim Yellow Button-up Shirt,Classic Grey Brogues,Classic Blue Pullover,Rustic Orange Pleated Trousers,Classic Yellow Beret
+Soul/R&B,Other,Indie,Unique Yellow Silk Shirt,Unconventional Grey Velvet Loafers,Unique Pink Zip-up Hoodie,Unique Green Relaxed Fit Pants,Novel Black Baseball Cap
+Hip Hop/Rap,Jazz,Punk,Unique Green Button-up Shirt,Eclectic Purple Brogues,Unique Grey Leather Jacket,Novel Red Pleated Trousers,Novel Orange Beret
+Ambient,Reggae,Hip Hop/Rap,Vibrant Grey Rasta Tank,Relaxed Green Sandals,Relaxed Grey Rasta Beanie,Vibrant Pink Cargo Shorts,Bohemian Black Rasta Bracelet
+Ambient,Experimental,Dance,Unique Green Abstract Tee,Unique Yellow Avant-garde Shoes,Novel Purple Asymmetric Sweater,Eclectic Grey Wide-leg Pants,Unique Purple Artistic Scarf
+Latin,Other,Jazz,Eclectic Yellow Brightly Colored Shirt,Novel White Dance Shoes,Unconventional Black Zip-up Hoodie,Eclectic Grey Casual Jeans,Novel Yellow Beret
+Folk,Acoustic,Instrumental,Handmade Pink Plain Tee,Soft Green Dress Shoes,Relaxed White Blazer,Handmade Red Dress Pants,Relaxed Grey Leather Bracelet
+Acoustic,Experimental,Dance,Handmade Pink Abstract Tee,Handmade Pink Avant-garde Shoes,Soft Red Asymmetric Sweater,Soft White Chinos,Soft Orange Leather Bracelet
+Easy Listening,Ambient,Instrumental,Novel Red Dress Shirt,Unique Purple Dress Shoes,Unconventional Yellow Blazer,Unique Blue Dress Pants,Unconventional Grey Pocket Square
+Latin,Hip Hop/Rap,Country,Rustic Red Brightly Colored Shirt,Denim Blue Dance Shoes,Denim Red Light Jacket,Classic Purple Salsa Pants,Earthy Purple Cowboy Hat
+Classical,Folk,Acoustic,Sophisticated White Earthy Tone Tee,Sophisticated Green Oxfords,Elegant Black Shawl,Sophisticated Orange Corduroy Pants,Timeless Orange Silk Scarf
+Latin,Indie,Blues,Retro Black Brightly Colored Shirt,Worn Yellow Dance Shoes,Deep Grey Light Jacket,Deep Purple Slacks,Soulful Red Fedora Hat
+Vocal,Instrumental,Other,Novel Green Casual Tee,Eclectic Orange Dress Shoes,Unique Purple Zip-up Hoodie,Eclectic Green Dress Pants,Novel White Pocket Square
+Rock,Indie,Electronic,Leather Blue Graphic Tee,Studded Orange Leather Boots,Grunge White Hoodie,Leather Pink Black Jeans,Vintage Grey LED Bracelet
+Easy Listening,World Music,Metal,Unique White Patterned Shirt,Unconventional Purple Espadrilles,Unique Pink Poncho,Unique Pink Linen Trousers,Unconventional Grey Beaded Necklace
+Electronic,Other,Latin,Metallic Grey Brightly Colored Shirt,Metallic Black Dance Shoes,Neon Black Zip-up Hoodie,Neon Black Casual Jeans,Glowing Purple LED Bracelet
+Rock,Classical,Latin,Grunge Purple Turtleneck,Leather Black Dance Shoes,Vintage Green Light Jacket,Grunge White Salsa Pants,Leather Yellow Fedora Hat
+Rock,Country,Easy Listening,Grunge Black Band Tee,Leather Orange Cowboy Boots,Grunge Yellow Denim Jacket,Leather White Blue Jeans,Leather Pink Cowboy Hat
+Electronic,Metal,Acoustic,Metallic Red Graphic Tee,Glowing Black High-top Sneakers,Glowing Blue Knit Sweater,Futuristic Blue Chinos,Futuristic Yellow Leather Bracelet
+Hip Hop/Rap,Acoustic,Pop,Soft Black Trendy Tee,Soft Green Loafers,Soft Orange Knit Sweater,Natural Grey Chinos,Natural Orange Fashion Sunglasses
+Instrumental,Indie,Dance,Unconventional White Dress Shirt,Unconventional Black Dress Shoes,Unconventional Green Blazer,Unique White Dress Pants,Eclectic Grey Pocket Square
+Vocal,Easy Listening,Reggae,Vibrant Green Rasta Tank,Relaxed Purple Sandals,Vibrant Red Rasta Beanie,Bohemian Yellow Cargo Shorts,Rasta Grey Rasta Bracelet
+Vocal,Reggae,Rock,Vibrant Yellow Band Tee,Vibrant White Leather Boots,Vibrant Yellow Denim Jacket,Bohemian Yellow Cargo Shorts,Rasta Red Rasta Bracelet
+Experimental,Ambient,Instrumental,Unique Red Dress Shirt,Unconventional Purple Dress Shoes,Unconventional Grey Asymmetric Sweater,Novel Blue Wide-leg Pants,Unconventional Blue Artistic Scarf
+World Music,Hip Hop/Rap,Blues,Deep Black Henley Shirt,Worn Grey Espadrilles,Soulful Purple Vest,Deep Purple Linen Trousers,Retro Black Beaded Necklace
+Punk,Electronic,Jazz,Neon Green Plaid Shirt,Metallic Purple Brogues,Futuristic Black Pullover,Neon Green Ripped Jeans,Metallic Black LED Bracelet
+Vocal,Metal,Classical,Timeless Purple Turtleneck,Sophisticated Blue Oxfords,Sophisticated Grey Cashmere Sweater,Timeless Orange Tailored Trousers,Formal Orange Silk Scarf
+Ambient,Folk,Metal,Eclectic Grey Earthy Tone Tee,Novel White Ankle Boots,Novel White Shawl,Eclectic Blue Corduroy Pants,Unconventional Red Boho Necklace
+Acoustic,Indie,Country,Handmade Orange Plain Tee,Handmade Blue Cowboy Boots,Soft Green Knit Sweater,Soft Blue Chinos,Natural Yellow Leather Bracelet
+Indie,Dance,Latin,Unique Red Brightly Colored Shirt,Novel White Dance Shoes,Unique Green Light Jacket,Unique White Salsa Pants,Eclectic Yellow Fedora Hat
+Jazz,Latin,Other,Unconventional Black Button-up Shirt,Unconventional Orange Brogues,Unconventional Green Pullover,Unconventional Yellow Casual Jeans,Unconventional Blue Baseball Cap
+Ambient,Classical,Dance,Timeless Red Turtleneck,Timeless Grey Oxfords,Sophisticated White Cashmere Sweater,Elegant Black Tailored Trousers,Elegant Yellow Silk Scarf
+Folk,Electronic,Other,Metallic Blue Casual Tee,Futuristic White Sneakers,Futuristic Blue Hoodie,Glowing Red Joggers,Neon Yellow LED Bracelet
+Classical,Pop,Punk,Sophisticated Pink Trendy Tee,Elegant Orange Oxfords,Elegant Pink Cashmere Sweater,Sophisticated Pink Ripped Jeans,Elegant Yellow Silk Scarf
+Metal,Hip Hop/Rap,Jazz,Unique Red Button-up Shirt,Unconventional Yellow Brogues,Unique Blue Pullover,Unique Grey Pleated Trousers,Eclectic Black Beret
+Instrumental,Rock,Indie,Grunge Red Band Tee,Leather Blue Dress Shoes,Vintage Green Blazer,Grunge Purple Black Jeans,Studded Purple Studded Belt
+Electronic,Jazz,Instrumental,Futuristic Black Button-up Shirt,Glowing Green High-top Sneakers,Futuristic Pink Hoodie,Neon Black Joggers,Metallic Orange LED Bracelet
+Jazz,Indie,Country,Denim White Button-up Shirt,Earthy Purple Brogues,Rustic Green Cardigan,Denim Green Pleated Trousers,Denim Orange Beret
+Blues,Hip Hop/Rap,Country,Deep Pink Flannel Shirt,Deep Orange Suede Shoes,Worn White Vest,Soulful Black Blue Jeans,Retro White Fedora
+Blues,Easy Listening,Electronic,Deep Grey Henley Shirt,Soulful Yellow High-top Sneakers,Retro Red Hoodie,Soulful Grey Slacks,Soulful White Fedora
+Rock,Folk,Reggae,Leather Pink Band Tee,Grunge White Leather Boots,Grunge White Denim Jacket,Vintage Pink Corduroy Pants,Studded Orange Studded Belt
+Indie,Blues,Other,Worn Yellow Casual Tee,Soulful Green Sneakers,Soulful Orange Vest,Retro Pink Slacks,Soulful Black Baseball Cap
+Latin,Indie,Blues,Retro Purple Brightly Colored Shirt,Soulful White Dance Shoes,Worn Blue Vest,Worn Black Slacks,Deep Yellow Fedora Hat
+Latin,Electronic,Instrumental,Glowing Orange Dress Shirt,Futuristic Orange Dress Shoes,Glowing Grey Hoodie,Metallic Green Dress Pants,Futuristic Grey Fedora Hat
+Classical,World Music,Country,Timeless Grey Flannel Shirt,Timeless Orange Espadrilles,Formal Yellow Poncho,Sophisticated Grey Tailored Trousers,Elegant Grey Cowboy Hat
+Ambient,Pop,Metal,Glamorous Purple Trendy Tee,Bright Blue Stylish Sneakers,Sparkly Purple Bomber Jacket,Glamorous Orange Skinny Jeans,Trendy Yellow Fashion Sunglasses
+Pop,Classical,Vocal,Trendy Yellow Trendy Tee,Bright Black Stylish Sneakers,Bright Blue Bomber Jacket,Glamorous Pink Skinny Jeans,Glamorous White Fashion Sunglasses
+Vocal,Reggae,Hip Hop/Rap,Vibrant Black Rasta Tank,Rasta Pink Sandals,Rasta Purple Rasta Beanie,Rasta Grey Cargo Shorts,Vibrant Blue Rasta Bracelet
+Latin,Metal,Other,Unconventional Orange Brightly Colored Shirt,Unconventional White Dance Shoes,Novel White Light Jacket,Novel Black Salsa Pants,Unique White Fedora Hat
+Vocal,Pop,Country,Trendy Green Trendy Tee,Bright Red Stylish Sneakers,Sparkly Yellow Cardigan,Trendy Yellow Blue Jeans,Sparkly Orange Fashion Sunglasses
+Punk,World Music,Instrumental,Novel White Patterned Shirt,Novel Yellow Dress Shoes,Unconventional Orange Blazer,Novel Green Ripped Jeans,Eclectic White Pocket Square
+Indie,Soul/R&B,Classical,Timeless Pink Turtleneck,Formal Yellow Velvet Loafers,Timeless Green Cashmere Sweater,Formal Black Relaxed Fit Pants,Elegant Pink Gold Chain
+Reggae,Country,Easy Listening,Relaxed Red Flannel Shirt,Relaxed Yellow Sandals,Relaxed Black Cardigan,Bohemian Grey Blue Jeans,Rasta White Cowboy Hat
+Reggae,Soul/R&B,Instrumental,Rasta Black Rasta Tank,Relaxed Purple Velvet Loafers,Relaxed Black Rasta Beanie,Bohemian Pink Relaxed Fit Pants,Vibrant Green Rasta Bracelet
+Ambient,Blues,Reggae,Retro Black Henley Shirt,Soulful Grey Sandals,Deep White Rasta Beanie,Retro Blue Slacks,Retro Yellow Fedora
+Jazz,Rock,Easy Listening,Leather White Band Tee,Leather Red Brogues,Vintage Grey Denim Jacket,Vintage Orange Pleated Trousers,Vintage Orange Beret
+Hip Hop/Rap,Country,Experimental,Denim Purple Flannel Shirt,Rustic Black Cowboy Boots,Denim Yellow Asymmetric Sweater,Denim Orange Blue Jeans,Earthy Red Artistic Scarf
+Jazz,Blues,Ambient,Deep Blue Henley Shirt,Soulful Pink Brogues,Soulful Green Pullover,Soulful Black Pleated Trousers,Deep Yellow Fedora
+Easy Listening,Jazz,Acoustic,Natural Red Button-up Shirt,Relaxed Blue Brogues,Soft Grey Pullover,Natural Green Pleated Trousers,Natural Grey Beret
+Easy Listening,Indie,Folk,Eclectic Orange Earthy Tone Tee,Unique Grey Ankle Boots,Unique Blue Shawl,Unconventional Blue Corduroy Pants,Unconventional Grey Boho Necklace
+Indie,Ambient,Experimental,Unique Grey Abstract Tee,Unconventional Purple Avant-garde Shoes,Eclectic Yellow Asymmetric Sweater,Eclectic Grey Wide-leg Pants,Novel Orange Artistic Scarf
+World Music,Experimental,Punk,Novel Red Abstract Tee,Novel Red Combat Boots,Unique Red Asymmetric Sweater,Eclectic Orange Ripped Jeans,Eclectic White Choker Necklace
+Soul/R&B,Folk,Jazz,Unconventional Grey Earthy Tone Tee,Novel Yellow Ankle Boots,Eclectic Purple Pullover,Eclectic Green Corduroy Pants,Unconventional Pink Beret
+World Music,Ambient,Vocal,Novel Purple Patterned Shirt,Novel Purple Espadrilles,Unique Green Poncho,Unconventional Blue Linen Trousers,Eclectic Pink Beaded Necklace
+Electronic,Acoustic,Hip Hop/Rap,Metallic Black Plain Tee,Futuristic Black Loafers,Neon Purple Hoodie,Glowing Purple Chinos,Futuristic Blue Leather Bracelet
+Instrumental,Country,Folk,Classic Black Dress Shirt,Earthy Grey Ankle Boots,Rustic Grey Blazer,Rustic Green Dress Pants,Classic Red Boho Necklace
+Punk,Electronic,Metal,Futuristic Pink Graphic Tee,Metallic White Combat Boots,Neon Pink Hoodie,Futuristic Green Ripped Jeans,Glowing Pink LED Bracelet
+World Music,Ambient,Hip Hop/Rap,Eclectic Blue Patterned Shirt,Novel Purple Espadrilles,Unique Grey Poncho,Eclectic Pink Linen Trousers,Unique Pink Beaded Necklace
+Pop,Vocal,Acoustic,Bright Red Trendy Tee,Sparkly Purple Stylish Sneakers,Bright Pink Bomber Jacket,Glamorous Black Skinny Jeans,Bright Blue Fashion Sunglasses
+Ambient,Indie,Rock,Vintage White Band Tee,Leather Red Leather Boots,Vintage Yellow Denim Jacket,Leather Orange Black Jeans,Grunge Grey Studded Belt
+Dance,World Music,Vocal,Unique Green Patterned Shirt,Unique Pink Espadrilles,Unique Black Poncho,Eclectic Red Linen Trousers,Unique Blue Beaded Necklace
+Classical,Acoustic,Easy Listening,Elegant White Plain Tee,Timeless White Loafers,Elegant Green Knit Sweater,Formal Green Tailored Trousers,Formal Grey Leather Bracelet
+Classical,Instrumental,Other,Formal Red Turtleneck,Sophisticated Red Oxfords,Formal Yellow Blazer,Formal Red Dress Pants,Elegant White Pocket Square
+Folk,Vocal,Rock,Leather Red Band Tee,Grunge Red Leather Boots,Leather Red Shawl,Vintage Blue Corduroy Pants,Leather Green Boho Necklace
+Electronic,Pop,Easy Listening,Neon Blue Trendy Tee,Futuristic Red High-top Sneakers,Futuristic Black Bomber Jacket,Neon Red Skinny Jeans,Futuristic Green Fashion Sunglasses
+Hip Hop/Rap,World Music,Acoustic,Relaxed Orange Plain Tee,Handmade Red Loafers,Relaxed White Poncho,Natural Black Chinos,Natural Red Leather Bracelet
+Latin,Rock,Acoustic,Leather Blue Brightly Colored Shirt,Grunge White Leather Boots,Grunge Orange Light Jacket,Grunge Blue Chinos,Grunge Red Fedora Hat
+Punk,Indie,Folk,Eclectic Pink Plaid Shirt,Unconventional Red Ankle Boots,Novel Yellow Shawl,Unconventional Orange Ripped Jeans,Novel Orange Boho Necklace
+World Music,Vocal,Hip Hop/Rap,Novel Grey Patterned Shirt,Unconventional Purple Espadrilles,Unique Yellow Poncho,Novel Purple Linen Trousers,Eclectic Yellow Beaded Necklace
+Latin,Classical,Pop,Elegant Purple Trendy Tee,Timeless White Dance Shoes,Sophisticated Blue Cashmere Sweater,Elegant Purple Tailored Trousers,Sophisticated Green Fashion Sunglasses
+Punk,Classical,Soul/R&B,Timeless Black Turtleneck,Timeless Purple Oxfords,Timeless Purple Velvet Jacket,Sophisticated Green Tailored Trousers,Elegant Orange Choker Necklace
+Pop,Jazz,Other,Sparkly Orange Trendy Tee,Sparkly Black Sneakers,Sparkly Grey Bomber Jacket,Trendy Black Skinny Jeans,Glamorous Purple Baseball Cap
+Blues,Punk,Classical,Soulful Yellow Plaid Shirt,Worn Orange Oxfords,Worn Orange Vest,Soulful White Ripped Jeans,Retro Yellow Fedora
+Instrumental,Other,Classical,Novel Yellow Dress Shirt,Unique Blue Dress Shoes,Novel Yellow Cashmere Sweater,Unique Pink Dress Pants,Unique Purple Silk Scarf
+Dance,Instrumental,Folk,Unique White Earthy Tone Tee,Unique Blue Ankle Boots,Unconventional Pink Shawl,Unique Pink Dress Pants,Unique Orange Pocket Square
+Metal,Pop,World Music,Bright Blue Trendy Tee,Trendy Black Espadrilles,Sparkly White Bomber Jacket,Trendy Blue Linen Trousers,Trendy Orange Fashion Sunglasses
+Classical,Punk,Hip Hop/Rap,Formal Pink Turtleneck,Elegant Blue Combat Boots,Timeless Purple Leather Jacket,Timeless Blue Tailored Trousers,Timeless Green Silk Scarf
+Folk,Indie,Blues,Soulful Black Earthy Tone Tee,Worn Purple Ankle Boots,Retro White Vest,Deep White Corduroy Pants,Soulful Red Boho Necklace
+Electronic,Experimental,Easy Listening,Glowing White Graphic Tee,Glowing Blue High-top Sneakers,Glowing Black Asymmetric Sweater,Metallic Black Joggers,Metallic Purple Artistic Scarf
+Easy Listening,Rock,Other,Grunge Purple Band Tee,Studded White Leather Boots,Grunge Black Denim Jacket,Leather Grey Casual Jeans,Studded Grey Studded Belt
+Latin,Indie,Electronic,Neon Grey Graphic Tee,Futuristic Blue Dance Shoes,Glowing Green Light Jacket,Metallic Blue Joggers,Neon Red Fedora Hat
+Easy Listening,Jazz,Hip Hop/Rap,Novel Purple Button-up Shirt,Unique Blue Brogues,Unique Pink Pullover,Unconventional Green Pleated Trousers,Unique Black Beret
+Blues,Soul/R&B,Punk,Retro Yellow Henley Shirt,Retro Orange Combat Boots,Retro Blue Velvet Jacket,Worn Black Ripped Jeans,Retro Orange Gold Chain
+Other,Latin,Country,Novel Orange Flannel Shirt,Unique Blue Cowboy Boots,Novel Pink Zip-up Hoodie,Unconventional Grey Blue Jeans,Eclectic Grey Fedora Hat
+Latin,Rock,Punk,Grunge White Brightly Colored Shirt,Vintage Black Dance Shoes,Leather Grey Light Jacket,Vintage White Black Jeans,Grunge Purple Choker Necklace
+Metal,Acoustic,Ambient,Relaxed Blue Plain Tee,Soft Blue Loafers,Relaxed White Knit Sweater,Handmade Yellow Chinos,Natural Green Leather Bracelet
+Classical,Instrumental,Pop,Timeless Orange Trendy Tee,Formal Blue Dress Shoes,Sophisticated Black Cashmere Sweater,Elegant Green Tailored Trousers,Timeless White Fashion Sunglasses
+Pop,Metal,Soul/R&B,Glamorous Blue Silk Shirt,Trendy Black Stylish Sneakers,Trendy White Velvet Jacket,Trendy White Relaxed Fit Pants,Glamorous Pink Fashion Sunglasses
+Indie,Pop,Rock,Trendy White Trendy Tee,Trendy White Stylish Sneakers,Sparkly Yellow Bomber Jacket,Trendy Orange Skinny Jeans,Glamorous Blue Fashion Sunglasses
+Soul/R&B,Vocal,Easy Listening,Eclectic Blue Silk Shirt,Unique Red Velvet Loafers,Eclectic Blue Velvet Jacket,Eclectic Pink Relaxed Fit Pants,Unconventional Blue Gold Chain
+Indie,Country,Dance,Classic Grey Flannel Shirt,Classic Blue Cowboy Boots,Classic Pink Cardigan,Earthy White Blue Jeans,Rustic Pink Cowboy Hat
+Metal,Pop,Reggae,Bright Red Trendy Tee,Bright Orange Stylish Sneakers,Bright White Bomber Jacket,Trendy Green Cargo Shorts,Glamorous Yellow Rasta Bracelet
+Reggae,Acoustic,Country,Bohemian Green Plain Tee,Relaxed Orange Loafers,Bohemian Pink Knit Sweater,Rasta Black Chinos,Bohemian Blue Rasta Bracelet
+Dance,Jazz,Instrumental,Novel Black Dress Shirt,Eclectic Orange Dress Shoes,Eclectic Pink Blazer,Unique Orange Pleated Trousers,Unique Red Pocket Square
+Blues,Hip Hop/Rap,Country,Worn Black Flannel Shirt,Worn Grey Suede Shoes,Soulful White Vest,Retro Blue Slacks,Soulful Purple Cowboy Hat
+Acoustic,World Music,Reggae,Natural Purple Patterned Shirt,Relaxed Red Sandals,Natural Yellow Knit Sweater,Soft Pink Chinos,Natural Orange Rasta Bracelet
+Punk,Easy Listening,Hip Hop/Rap,Unconventional Red Plaid Shirt,Unconventional Orange Combat Boots,Unconventional Orange Leather Jacket,Eclectic Pink Ripped Jeans,Unique Green Choker Necklace
+Soul/R&B,World Music,Metal,Unique Red Silk Shirt,Unconventional Black Velvet Loafers,Unconventional Black Velvet Jacket,Unconventional White Relaxed Fit Pants,Novel Black Gold Chain
+Blues,Country,Indie,Worn Green Henley Shirt,Soulful Red Suede Shoes,Soulful Yellow Vest,Soulful Black Slacks,Worn Yellow Fedora
+Experimental,Country,Metal,Denim Grey Abstract Tee,Classic Pink Avant-garde Shoes,Denim Purple Cardigan,Rustic Black Wide-leg Pants,Rustic Pink Artistic Scarf
+Soul/R&B,Electronic,Dance,Metallic Black Silk Shirt,Metallic Grey High-top Sneakers,Glowing Purple Velvet Jacket,Neon Red Joggers,Glowing Red Gold Chain
+Classical,Folk,Jazz,Elegant Blue Earthy Tone Tee,Sophisticated White Oxfords,Sophisticated Yellow Pullover,Sophisticated Orange Pleated Trousers,Elegant Black Silk Scarf
+Classical,Latin,Folk,Elegant Red Brightly Colored Shirt,Timeless Red Ankle Boots,Timeless Orange Light Jacket,Sophisticated Black Salsa Pants,Elegant Red Silk Scarf
+Rock,Folk,Easy Listening,Leather Pink Band Tee,Grunge Blue Ankle Boots,Vintage Green Shawl,Leather Purple Corduroy Pants,Grunge Yellow Boho Necklace
+Latin,Blues,Acoustic,Deep Purple Plain Tee,Deep Red Dance Shoes,Worn Green Vest,Soulful Blue Chinos,Deep Pink Fedora Hat
+Reggae,Blues,Dance,Bohemian Purple Henley Shirt,Relaxed Green Sandals,Vibrant Orange Vest,Rasta Red Cargo Shorts,Bohemian Black Rasta Bracelet
+Acoustic,Ambient,Jazz,Handmade Orange Button-up Shirt,Soft White Brogues,Soft Blue Knit Sweater,Relaxed White Pleated Trousers,Handmade Black Beret
+Blues,Classical,World Music,Retro Black Henley Shirt,Soulful Pink Suede Shoes,Deep Pink Poncho,Soulful Orange Linen Trousers,Worn Blue Fedora
+Electronic,Acoustic,Soul/R&B,Metallic Orange Silk Shirt,Glowing Black High-top Sneakers,Glowing Yellow Knit Sweater,Futuristic Purple Chinos,Neon Green Gold Chain
+Blues,Dance,Folk,Deep Yellow Henley Shirt,Deep Grey Suede Shoes,Soulful Pink Vest,Worn Purple Corduroy Pants,Soulful Yellow Boho Necklace
+Blues,Rock,Instrumental,Deep Orange Dress Shirt,Worn White Suede Shoes,Retro White Denim Jacket,Soulful Blue Black Jeans,Soulful Pink Pocket Square
+Metal,World Music,Latin,Novel Grey Patterned Shirt,Unconventional Red Dance Shoes,Novel White Light Jacket,Unique Grey Linen Trousers,Unconventional Blue Beaded Necklace
+World Music,Reggae,Acoustic,Rasta Red Rasta Tank,Relaxed Orange Loafers,Bohemian Pink Poncho,Bohemian Pink Linen Trousers,Rasta Green Beaded Necklace
+Metal,Blues,Folk,Deep Green Earthy Tone Tee,Deep Orange Ankle Boots,Deep Black Vest,Retro Blue Corduroy Pants,Deep Grey Fedora
+Instrumental,Indie,Other,Novel Pink Casual Tee,Unique Grey Dress Shoes,Unique Yellow Zip-up Hoodie,Eclectic Blue Dress Pants,Unique Grey Pocket Square
+Acoustic,Blues,Electronic,Handmade Red Plain Tee,Natural Orange Suede Shoes,Relaxed Purple Knit Sweater,Relaxed White Joggers,Soft Grey Fedora
+Ambient,Country,Acoustic,Classic Yellow Plain Tee,Earthy Red Loafers,Rustic Black Cardigan,Rustic Black Blue Jeans,Earthy Grey Leather Bracelet
+Acoustic,Folk,Electronic,Handmade Black Plain Tee,Relaxed Green Ankle Boots,Handmade Blue Hoodie,Natural Blue Corduroy Pants,Soft Orange Leather Bracelet
+Electronic,Classical,Punk,Neon Purple Turtleneck,Neon Purple Combat Boots,Futuristic Green Cashmere Sweater,Glowing White Joggers,Metallic Green Choker Necklace
+Reggae,Other,Metal,Vibrant Green Rasta Tank,Rasta Purple Sneakers,Relaxed White Zip-up Hoodie,Vibrant Blue Casual Jeans,Rasta Blue Baseball Cap
+Reggae,Country,Blues,Vibrant Pink Henley Shirt,Vibrant Purple Suede Shoes,Bohemian Green Cardigan,Bohemian Blue Cargo Shorts,Vibrant Purple Cowboy Hat
+Other,Folk,Classical,Novel Red Casual Tee,Novel Red Sneakers,Unconventional White Zip-up Hoodie,Unconventional Red Tailored Trousers,Novel Blue Boho Necklace
+Rock,Country,Easy Listening,Leather Grey Flannel Shirt,Vintage Pink Leather Boots,Studded Orange Cardigan,Studded Purple Blue Jeans,Grunge Orange Cowboy Hat
+Soul/R&B,Acoustic,Indie,Natural Red Silk Shirt,Relaxed Purple Loafers,Natural Purple Knit Sweater,Natural Red Chinos,Handmade Yellow Leather Bracelet
+Instrumental,Acoustic,Metal,Natural Blue Dress Shirt,Natural Yellow Loafers,Relaxed Blue Knit Sweater,Relaxed Orange Chinos,Soft Yellow Pocket Square
+Acoustic,Experimental,World Music,Handmade Green Abstract Tee,Natural Black Loafers,Handmade Red Asymmetric Sweater,Relaxed Red Chinos,Natural Yellow Artistic Scarf
+Indie,Soul/R&B,Folk,Eclectic Black Earthy Tone Tee,Novel White Ankle Boots,Unique Black Velvet Jacket,Unique Black Relaxed Fit Pants,Unique Orange Boho Necklace
+Experimental,Vocal,Country,Rustic Green Abstract Tee,Denim White Avant-garde Shoes,Rustic White Asymmetric Sweater,Denim Black Wide-leg Pants,Rustic Red Artistic Scarf
+Metal,Country,Latin,Classic Grey Brightly Colored Shirt,Classic Orange Dance Shoes,Earthy Pink Light Jacket,Earthy White Blue Jeans,Rustic Grey Fedora Hat
+Pop,Jazz,Vocal,Glamorous Black Trendy Tee,Trendy Orange Stylish Sneakers,Glamorous Orange Pullover,Glamorous Orange Skinny Jeans,Trendy Red Beret
+Hip Hop/Rap,Reggae,Electronic,Vibrant Black Rasta Tank,Relaxed Blue Sandals,Relaxed Blue Hoodie,Bohemian Purple Joggers,Relaxed Pink LED Bracelet
+Blues,Dance,Instrumental,Worn Red Henley Shirt,Deep Green Suede Shoes,Soulful Purple Blazer,Soulful White Dress Pants,Deep Purple Fedora
+Blues,Jazz,Rock,Retro Blue Button-up Shirt,Worn Orange Brogues,Worn Grey Denim Jacket,Soulful Black Black Jeans,Retro Yellow Studded Belt
+Instrumental,Pop,Metal,Sparkly Green Trendy Tee,Glamorous Pink Dress Shoes,Sparkly Yellow Bomber Jacket,Sparkly Grey Skinny Jeans,Trendy Green Pocket Square
+Latin,Folk,Dance,Eclectic Purple Brightly Colored Shirt,Unconventional Yellow Dance Shoes,Unique Blue Shawl,Novel Pink Corduroy Pants,Eclectic Yellow Boho Necklace
+Punk,Easy Listening,World Music,Unconventional Green Plaid Shirt,Eclectic Purple Combat Boots,Unconventional Blue Leather Jacket,Novel Purple Ripped Jeans,Unique Grey Beaded Necklace
+Easy Listening,Country,Other,Denim Green Casual Tee,Classic Green Sneakers,Classic White Cardigan,Denim Red Casual Jeans,Classic Grey Cowboy Hat
+Metal,Experimental,Ambient,Unique Grey Abstract Tee,Unconventional Black Avant-garde Shoes,Novel White Asymmetric Sweater,Novel Orange Wide-leg Pants,Unique Black Artistic Scarf
+Soul/R&B,Jazz,Other,Unique Orange Silk Shirt,Unconventional White Brogues,Unique Yellow Pullover,Novel Purple Relaxed Fit Pants,Novel Orange Gold Chain
+Hip Hop/Rap,Punk,Indie,Novel Black Plaid Shirt,Unconventional White Combat Boots,Novel Black Leather Jacket,Unconventional Orange Ripped Jeans,Novel Purple Choker Necklace
+Other,Rock,Classical,Novel Orange Turtleneck,Novel Orange Sneakers,Unconventional Purple Denim Jacket,Unique Grey Casual Jeans,Eclectic Purple Silk Scarf
+Pop,Blues,Experimental,Bright Red Henley Shirt,Glamorous Green Stylish Sneakers,Glamorous Pink Bomber Jacket,Bright Blue Slacks,Glamorous Pink Fashion Sunglasses
+Other,Dance,Folk,Novel Green Casual Tee,Eclectic White Ankle Boots,Unique Green Shawl,Novel Black Corduroy Pants,Unique Black Boho Necklace
+Punk,Reggae,Ambient,Bohemian Green Plaid Shirt,Relaxed Black Sandals,Bohemian Black Rasta Beanie,Vibrant Purple Ripped Jeans,Bohemian Pink Rasta Bracelet
+Reggae,Vocal,Punk,Vibrant Grey Plaid Shirt,Relaxed Orange Combat Boots,Relaxed Yellow Leather Jacket,Relaxed Red Ripped Jeans,Bohemian Pink Choker Necklace
+Folk,Experimental,Other,Novel Green Abstract Tee,Novel Pink Sneakers,Unique White Shawl,Unconventional Red Casual Jeans,Novel Red Baseball Cap
+Experimental,Acoustic,Soul/R&B,Handmade Red Abstract Tee,Natural Orange Velvet Loafers,Handmade Green Velvet Jacket,Natural Yellow Chinos,Natural Grey Artistic Scarf
+Pop,Blues,Dance,Glamorous Pink Trendy Tee,Trendy Grey Stylish Sneakers,Trendy Black Bomber Jacket,Bright Blue Skinny Jeans,Trendy Yellow Fedora
+World Music,Dance,Punk,Unique Yellow Plaid Shirt,Novel Purple Combat Boots,Eclectic Grey Poncho,Unconventional Purple Ripped Jeans,Unique Red Choker Necklace
+Jazz,Indie,Experimental,Eclectic Pink Abstract Tee,Unique Blue Brogues,Novel Grey Pullover,Unconventional Yellow Wide-leg Pants,Unconventional Purple Artistic Scarf
+Dance,Country,Ambient,Earthy Pink Flannel Shirt,Denim Green Cowboy Boots,Classic Green Cardigan,Rustic Black Blue Jeans,Classic Orange Cowboy Hat
+Instrumental,Other,Punk,Novel Orange Dress Shirt,Unique White Sneakers,Unique Green Blazer,Novel White Ripped Jeans,Novel Green Baseball Cap
+Acoustic,Hip Hop/Rap,Ambient,Soft Pink Plain Tee,Soft White Loafers,Handmade Pink Knit Sweater,Handmade Yellow Chinos,Natural Black Leather Bracelet
+World Music,Indie,Dance,Unique Green Patterned Shirt,Eclectic White Espadrilles,Eclectic Purple Poncho,Unique Red Linen Trousers,Novel Yellow Beaded Necklace
+Experimental,Jazz,Folk,Unconventional Orange Button-up Shirt,Novel White Ankle Boots,Novel Blue Pullover,Novel Purple Corduroy Pants,Unique Blue Boho Necklace
+Country,Folk,Ambient,Denim Green Flannel Shirt,Classic Blue Ankle Boots,Denim Blue Cardigan,Earthy Yellow Corduroy Pants,Rustic Yellow Boho Necklace
+Pop,Punk,Folk,Trendy Yellow Earthy Tone Tee,Glamorous Purple Stylish Sneakers,Bright Green Bomber Jacket,Glamorous Purple Corduroy Pants,Sparkly White Fashion Sunglasses
+Instrumental,Metal,Indie,Novel White Dress Shirt,Unique Grey Dress Shoes,Novel Green Blazer,Eclectic Red Dress Pants,Unique Pink Pocket Square
+World Music,Punk,Jazz,Unconventional Orange Button-up Shirt,Unconventional Purple Brogues,Novel Red Pullover,Novel Grey Pleated Trousers,Eclectic Pink Choker Necklace
+Hip Hop/Rap,Blues,World Music,Deep White Henley Shirt,Deep Yellow Suede Shoes,Deep Blue Vest,Worn Blue Linen Trousers,Deep Yellow Beaded Necklace
+Jazz,Dance,World Music,Unique Blue Button-up Shirt,Eclectic Orange Espadrilles,Unique Blue Pullover,Eclectic Pink Pleated Trousers,Unconventional Yellow Beaded Necklace
+Country,Latin,Experimental,Denim Green Flannel Shirt,Classic Red Avant-garde Shoes,Classic Grey Asymmetric Sweater,Earthy Green Blue Jeans,Classic Grey Artistic Scarf
+Reggae,Experimental,Easy Listening,Rasta Green Abstract Tee,Rasta Green Sandals,Relaxed Green Asymmetric Sweater,Relaxed Grey Wide-leg Pants,Rasta Purple Rasta Bracelet
+Metal,Blues,Country,Worn Yellow Henley Shirt,Deep Yellow Cowboy Boots,Worn Grey Vest,Deep Yellow Blue Jeans,Deep Orange Fedora
+Experimental,Instrumental,Hip Hop/Rap,Novel Blue Abstract Tee,Eclectic Orange Dress Shoes,Unconventional Black Asymmetric Sweater,Unique Purple Wide-leg Pants,Unconventional Yellow Artistic Scarf
+Instrumental,Classical,Blues,Formal White Henley Shirt,Timeless White Suede Shoes,Elegant Yellow Cashmere Sweater,Timeless Blue Dress Pants,Formal Pink Silk Scarf
+Indie,Rock,Punk,Leather Black Plaid Shirt,Grunge Purple Leather Boots,Studded Black Leather Jacket,Vintage Black Black Jeans,Studded Pink Studded Belt
+Jazz,Soul/R&B,Metal,Novel Green Button-up Shirt,Unconventional Red Velvet Loafers,Novel Orange Velvet Jacket,Eclectic Orange Pleated Trousers,Eclectic Purple Beret
+Country,Latin,Acoustic,Denim Pink Brightly Colored Shirt,Earthy Orange Dance Shoes,Rustic Blue Cardigan,Classic Black Blue Jeans,Denim Yellow Leather Bracelet
+Instrumental,World Music,Experimental,Novel Green Abstract Tee,Novel Pink Avant-garde Shoes,Novel Green Blazer,Unconventional Green Linen Trousers,Unique Green Artistic Scarf
+Punk,Soul/R&B,Other,Eclectic Grey Silk Shirt,Novel White Sneakers,Novel Black Leather Jacket,Unique Blue Relaxed Fit Pants,Unique Black Gold Chain
+Folk,Hip Hop/Rap,Metal,Eclectic Orange Earthy Tone Tee,Unique Pink Ankle Boots,Unconventional White Shawl,Novel Orange Corduroy Pants,Novel Orange Boho Necklace
+Easy Listening,Blues,Ambient,Retro Pink Henley Shirt,Retro Pink Suede Shoes,Deep Grey Vest,Soulful Purple Slacks,Worn Grey Fedora
+Acoustic,Punk,Dance,Handmade Black Plain Tee,Relaxed White Combat Boots,Handmade Red Knit Sweater,Handmade Orange Chinos,Relaxed White Leather Bracelet
+Other,Acoustic,Ambient,Unique Black Plain Tee,Unconventional Purple Sneakers,Eclectic Pink Knit Sweater,Unconventional Grey Chinos,Unique Pink Baseball Cap
+Pop,Indie,Other,Glamorous Black Trendy Tee,Bright White Sneakers,Trendy Pink Bomber Jacket,Glamorous Pink Skinny Jeans,Trendy Orange Fashion Sunglasses
+Latin,Punk,Experimental,Novel Orange Plaid Shirt,Unconventional Pink Dance Shoes,Unique Grey Asymmetric Sweater,Unique Black Ripped Jeans,Novel Grey Artistic Scarf
+Folk,Reggae,Instrumental,Vibrant Blue Rasta Tank,Rasta Black Dress Shoes,Relaxed Pink Shawl,Rasta Green Dress Pants,Rasta Orange Boho Necklace
+Dance,World Music,Vocal,Novel Grey Patterned Shirt,Eclectic Green Espadrilles,Unique Pink Poncho,Novel Blue Linen Trousers,Unique Purple Beaded Necklace
+Latin,Classical,Electronic,Formal Orange Graphic Tee,Formal Grey High-top Sneakers,Sophisticated Black Cashmere Sweater,Sophisticated Purple Joggers,Formal Red Silk Scarf
+Acoustic,Easy Listening,Ambient,Soft Pink Plain Tee,Handmade Purple Loafers,Relaxed White Knit Sweater,Handmade Yellow Chinos,Handmade Purple Leather Bracelet
+Indie,Experimental,Country,Classic Pink Abstract Tee,Rustic Pink Avant-garde Shoes,Rustic Purple Cardigan,Denim Purple Wide-leg Pants,Classic Blue Artistic Scarf
+Classical,World Music,Latin,Sophisticated Yellow Patterned Shirt,Formal White Oxfords,Elegant Black Cashmere Sweater,Sophisticated Grey Tailored Trousers,Sophisticated Blue Silk Scarf
+Hip Hop/Rap,Acoustic,Indie,Soft Pink Plain Tee,Natural Yellow Loafers,Relaxed Purple Knit Sweater,Handmade Grey Chinos,Soft Orange Leather Bracelet
+Easy Listening,Instrumental,Experimental,Eclectic Blue Dress Shirt,Unconventional Orange Avant-garde Shoes,Novel Red Asymmetric Sweater,Unique Pink Wide-leg Pants,Unconventional Green Pocket Square
+Country,Pop,Experimental,Classic Orange Abstract Tee,Classic Blue Stylish Sneakers,Earthy Purple Asymmetric Sweater,Denim Orange Blue Jeans,Denim Pink Fashion Sunglasses
+Jazz,Electronic,Folk,Neon Red Button-up Shirt,Neon Red Ankle Boots,Neon Orange Shawl,Neon Black Pleated Trousers,Neon Pink LED Bracelet
+Jazz,Country,Blues,Denim Yellow Henley Shirt,Denim Purple Suede Shoes,Denim Pink Pullover,Denim Yellow Blue Jeans,Rustic Blue Fedora
+Metal,Vocal,Instrumental,Unconventional Purple Dress Shirt,Eclectic Yellow Dress Shoes,Unconventional Purple Blazer,Unconventional Purple Dress Pants,Unique Green Pocket Square
+Acoustic,Instrumental,Indie,Soft Black Plain Tee,Natural Orange Loafers,Soft Orange Blazer,Handmade Black Dress Pants,Relaxed Yellow Leather Bracelet
+World Music,Blues,Rock,Deep White Henley Shirt,Deep Pink Suede Shoes,Worn Red Denim Jacket,Deep Grey Slacks,Worn Red Beaded Necklace
+Soul/R&B,Ambient,Other,Unconventional Purple Silk Shirt,Unconventional Black Sneakers,Eclectic Black Velvet Jacket,Unique Grey Relaxed Fit Pants,Eclectic Yellow Gold Chain
+Easy Listening,Reggae,Indie,Bohemian Yellow Rasta Tank,Relaxed Orange Sandals,Bohemian Orange Rasta Beanie,Vibrant Grey Cargo Shorts,Rasta Purple Rasta Bracelet
+Vocal,Metal,Blues,Retro Green Henley Shirt,Deep White Suede Shoes,Soulful Grey Vest,Worn Yellow Slacks,Retro Pink Fedora
+Hip Hop/Rap,Indie,Reggae,Rasta Black Rasta Tank,Relaxed Green Sandals,Relaxed Green Rasta Beanie,Vibrant Orange Cargo Shorts,Vibrant Red Rasta Bracelet
+Vocal,Blues,Indie,Soulful Red Henley Shirt,Soulful Grey Suede Shoes,Deep Blue Vest,Soulful Orange Slacks,Deep Blue Fedora
+Experimental,Vocal,Ambient,Novel Green Abstract Tee,Novel White Avant-garde Shoes,Eclectic Green Asymmetric Sweater,Unconventional Orange Wide-leg Pants,Novel Blue Artistic Scarf
+Metal,Experimental,Reggae,Vibrant Yellow Rasta Tank,Bohemian Yellow Avant-garde Shoes,Vibrant Orange Rasta Beanie,Rasta Grey Cargo Shorts,Relaxed Purple Artistic Scarf
+Vocal,Classical,Experimental,Timeless Grey Abstract Tee,Formal Orange Oxfords,Timeless Orange Asymmetric Sweater,Formal Yellow Tailored Trousers,Formal Purple Artistic Scarf
+Pop,Country,Ambient,Bright Grey Trendy Tee,Glamorous Purple Stylish Sneakers,Trendy Yellow Cardigan,Glamorous Blue Blue Jeans,Trendy White Fashion Sunglasses
+Indie,Ambient,Rock,Leather Blue Band Tee,Vintage Green Leather Boots,Vintage Grey Denim Jacket,Studded Green Black Jeans,Vintage Blue Studded Belt
+Electronic,Punk,Folk,Metallic Blue Earthy Tone Tee,Metallic Black High-top Sneakers,Neon Green Hoodie,Metallic Black Corduroy Pants,Metallic Black Choker Necklace
+Acoustic,Rock,Reggae,Natural Orange Band Tee,Natural Black Leather Boots,Relaxed Grey Rasta Beanie,Soft Orange Chinos,Handmade Black Leather Bracelet
+Pop,Indie,Acoustic,Bright Orange Trendy Tee,Sparkly Pink Loafers,Trendy Black Bomber Jacket,Sparkly Yellow Chinos,Sparkly Orange Fashion Sunglasses
+Metal,Country,Classical,Classic Green Flannel Shirt,Rustic Green Cowboy Boots,Rustic Purple Cardigan,Earthy Black Tailored Trousers,Denim Red Cowboy Hat
+Electronic,Classical,Hip Hop/Rap,Neon White Graphic Tee,Neon Orange Oxfords,Neon Green Cashmere Sweater,Neon Grey Joggers,Metallic Blue LED Bracelet
+Metal,Folk,Classical,Formal Grey Earthy Tone Tee,Elegant White Oxfords,Sophisticated Red Shawl,Timeless Black Tailored Trousers,Timeless Black Boho Necklace
+World Music,Indie,Experimental,Eclectic Pink Patterned Shirt,Unique Yellow Avant-garde Shoes,Eclectic Yellow Poncho,Eclectic Green Wide-leg Pants,Novel Yellow Artistic Scarf
+Indie,Easy Listening,Electronic,Glowing Orange Graphic Tee,Neon Black High-top Sneakers,Futuristic Red Hoodie,Metallic Green Joggers,Neon Red LED Bracelet
+Classical,Metal,Blues,Formal Grey Henley Shirt,Elegant Purple Suede Shoes,Formal Red Vest,Elegant Green Tailored Trousers,Timeless Purple Silk Scarf
+Vocal,Pop,World Music,Glamorous Blue Trendy Tee,Glamorous White Espadrilles,Glamorous Black Bomber Jacket,Trendy Orange Skinny Jeans,Sparkly Red Beaded Necklace
+Jazz,Folk,Blues,Retro Grey Earthy Tone Tee,Soulful Green Suede Shoes,Worn Blue Vest,Retro Pink Corduroy Pants,Retro Grey Beret
+Folk,Metal,Pop,Trendy Pink Trendy Tee,Glamorous Orange Ankle Boots,Glamorous Green Shawl,Trendy Purple Skinny Jeans,Glamorous White Boho Necklace
+Other,Rock,Classical,Unique Purple Casual Tee,Unconventional Black Leather Boots,Unique Yellow Cashmere Sweater,Eclectic Pink Tailored Trousers,Novel Blue Baseball Cap
+Rock,Country,Punk,Grunge Blue Flannel Shirt,Grunge Pink Cowboy Boots,Grunge Green Cardigan,Studded Grey Blue Jeans,Vintage Red Choker Necklace
+Indie,Classical,Other,Formal Red Turtleneck,Formal Blue Oxfords,Formal Yellow Zip-up Hoodie,Elegant Pink Tailored Trousers,Timeless Blue Silk Scarf
+Indie,Soul/R&B,Dance,Eclectic Purple Silk Shirt,Eclectic Green Velvet Loafers,Unique Blue Velvet Jacket,Unique Yellow Relaxed Fit Pants,Novel Red Gold Chain
+Ambient,World Music,Jazz,Unconventional Blue Button-up Shirt,Novel Green Espadrilles,Unconventional Red Pullover,Novel Pink Pleated Trousers,Unconventional Green Beret
+Punk,Metal,Jazz,Unique Orange Button-up Shirt,Eclectic White Brogues,Eclectic Blue Pullover,Novel Pink Pleated Trousers,Unconventional Orange Beret
+Other,Country,Experimental,Eclectic White Flannel Shirt,Unconventional Purple Avant-garde Shoes,Novel Blue Zip-up Hoodie,Unconventional Orange Wide-leg Pants,Eclectic Yellow Baseball Cap
+Dance,Rock,Metal,Vintage Grey Band Tee,Leather Red Leather Boots,Leather Yellow Denim Jacket,Leather Blue Black Jeans,Grunge Yellow Studded Belt
+Rock,Hip Hop/Rap,Country,Studded Yellow Band Tee,Leather Black Leather Boots,Studded Red Cardigan,Vintage Orange Black Jeans,Leather Green Studded Belt
+Other,World Music,Dance,Eclectic Blue Casual Tee,Unconventional Yellow Espadrilles,Eclectic Green Zip-up Hoodie,Eclectic Grey Casual Jeans,Eclectic Red Beaded Necklace
+Vocal,Pop,Latin,Trendy Grey Brightly Colored Shirt,Bright Blue Stylish Sneakers,Bright Pink Light Jacket,Trendy Black Skinny Jeans,Bright Blue Fedora Hat
+Blues,Electronic,Pop,Retro Purple Trendy Tee,Deep Green High-top Sneakers,Deep Blue Bomber Jacket,Worn Pink Slacks,Deep Pink LED Bracelet
+Hip Hop/Rap,Acoustic,Latin,Relaxed White Plain Tee,Soft Purple Dance Shoes,Soft White Knit Sweater,Soft Blue Salsa Pants,Natural Grey Fedora Hat
+Hip Hop/Rap,Instrumental,Soul/R&B,Novel Pink Silk Shirt,Novel Grey Dress Shoes,Unique Orange Blazer,Novel Red Relaxed Fit Pants,Unconventional Black Pocket Square
+World Music,Experimental,Blues,Soulful Blue Abstract Tee,Soulful Yellow Suede Shoes,Deep Pink Vest,Retro Purple Slacks,Worn Purple Beaded Necklace
+Rock,Vocal,Electronic,Grunge Green Graphic Tee,Grunge Orange Leather Boots,Grunge Black Denim Jacket,Leather Yellow Joggers,Leather White LED Bracelet
+Reggae,Metal,Instrumental,Bohemian Orange Rasta Tank,Vibrant Yellow Sandals,Bohemian Black Blazer,Bohemian Green Dress Pants,Vibrant Green Rasta Bracelet
+Latin,Experimental,Country,Rustic Orange Flannel Shirt,Denim Blue Cowboy Boots,Classic Red Asymmetric Sweater,Rustic Purple Wide-leg Pants,Denim Black Artistic Scarf
+Instrumental,Metal,Acoustic,Natural Purple Plain Tee,Soft Red Dress Shoes,Handmade Purple Knit Sweater,Soft Blue Dress Pants,Relaxed Green Leather Bracelet
+Easy Listening,Metal,Dance,Eclectic Orange Dance Tee,Eclectic Green Sneakers ,Unique Pink Leather Jacket,Unique Blue Athletic shorts ,Unique Pink LED Bracelet
+Other,Vocal,Soul/R&B,Unique Grey Silk Shirt,Eclectic Black Velvet Loafers,Novel Grey Zip-up Hoodie,Unconventional Purple Relaxed Fit Pants,Unconventional Grey Gold Chain
+Ambient,Electronic,Acoustic,Futuristic Orange Plain Tee,Neon Red Loafers,Metallic Green Knit Sweater,Metallic Purple Joggers,Futuristic Grey LED Bracelet
+Folk,Electronic,Soul/R&B,Glowing Red Earthy Tone Tee,Metallic Blue High-top Sneakers,Metallic Purple Hoodie,Glowing Grey Relaxed Fit Pants,Metallic Purple Boho Necklace
+Classical,Indie,Metal,Elegant Green Turtleneck,Elegant Purple Oxfords,Timeless Red Cashmere Sweater,Sophisticated Red Tailored Trousers,Elegant Purple Silk Scarf
+Blues,Rock,Country,Deep Green Henley Shirt,Deep White Suede Shoes,Retro Blue Denim Jacket,Soulful Orange Slacks,Worn Purple Fedora
+Electronic,Indie,Country,Futuristic Grey Graphic Tee,Futuristic Black High-top Sneakers,Futuristic Blue Hoodie,Neon Red Blue Jeans,Neon Grey LED Bracelet
+Folk,Acoustic,Soul/R&B,Natural Red Earthy Tone Tee,Natural Red Ankle Boots,Handmade Pink Knit Sweater,Relaxed Blue Chinos,Handmade Blue Boho Necklace
+Blues,Rock,Latin,Retro Orange Henley Shirt,Worn Purple Suede Shoes,Soulful Red Vest,Worn Black Slacks,Retro Orange Studded Belt
+Rock,Folk,Classical,Studded Purple Turtleneck,Leather Blue Leather Boots,Studded Black Shawl,Grunge Black Corduroy Pants,Vintage Green Silk Scarf
+Instrumental,Soul/R&B,Indie,Novel Grey Dress Shirt,Unique Pink Velvet Loafers,Unconventional Green Blazer,Unconventional Orange Relaxed Fit Pants,Unconventional Yellow Gold Chain
+Rock,Blues,Other,Grunge Blue Casual Tee,Vintage White Suede Shoes,Vintage White Denim Jacket,Vintage Purple Slacks,Studded Purple Fedora
+Instrumental,Easy Listening,Rock,Grunge Red Dress Shirt,Grunge Blue Dress Shoes,Grunge Purple Denim Jacket,Grunge Orange Dress Pants,Grunge Black Studded Belt
+Metal,Jazz,Punk,Eclectic White Plaid Shirt,Unique White Combat Boots,Unconventional Red Pullover,Eclectic Purple Ripped Jeans,Unconventional Orange Choker Necklace
+Country,Vocal,Electronic,Denim Red Flannel Shirt,Rustic Yellow Cowboy Boots,Rustic White Hoodie,Earthy Grey Joggers,Earthy Red LED Bracelet
+Experimental,Indie,Easy Listening,Novel Black Abstract Tee,Unique Yellow Avant-garde Shoes,Novel Grey Asymmetric Sweater,Novel Black Wide-leg Pants,Eclectic Pink Artistic Scarf
+Acoustic,Blues,Folk,Natural Red Plain Tee,Handmade Black Suede Shoes,Handmade Yellow Shawl,Handmade Grey Chinos,Handmade Green Fedora
+Rock,Ambient,Blues,Leather Grey Henley Shirt,Vintage Yellow Suede Shoes,Grunge Orange Vest,Vintage Green Slacks,Grunge Black Studded Belt
+Vocal,Instrumental,Metal,Eclectic White Dress Shirt,Eclectic Yellow Dress Shoes,Unconventional Black Blazer,Unique Red Dress Pants,Unconventional White Pocket Square
+Indie,Blues,Latin,Worn Pink Brightly Colored Shirt,Retro Black Suede Shoes,Soulful Black Light Jacket,Deep Yellow Slacks,Worn Purple Fedora Hat
+Reggae,Ambient,Blues,Bohemian Blue Rasta Tank,Rasta Green Sandals,Bohemian Purple Vest,Rasta Blue Slacks,Vibrant Blue Rasta Bracelet
+Reggae,World Music,Acoustic,Rasta Blue Rasta Tank,Bohemian Green Sandals,Rasta Purple Rasta Beanie,Rasta Purple Linen Trousers,Rasta White Beaded Necklace
+Folk,Other,Jazz,Unique Grey Button-up Shirt,Unique Purple Sneakers,Novel Yellow Zip-up Hoodie,Eclectic Grey Pleated Trousers,Novel Green Boho Necklace
