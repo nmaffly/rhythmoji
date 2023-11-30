@@ -40,10 +40,10 @@
                         <li>{{ genre }}: {{ count }}%</li>
                     {% endfor %}
                 </ul>
-                <h2>Clothing assignemnts</h2>
+                <h2>Clothing Assignments</h2>
                 <ul>
-                    {% for clothing,genre in assigned_clothing %}
-                        <li>{{ clothing }}: {{ genre }}</li>
+                    {% for clothing, clothing_item, genre in assigned_clothing %}
+                    <li>{{ clothing }}: {{ clothing_item }} <span class="inspired-by">.......inspired by {{ genre }}</span></li>
                     {% endfor %}
                 </ul>
             </div>

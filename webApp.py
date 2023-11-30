@@ -6,10 +6,12 @@ from dotenv import load_dotenv
 from collections import Counter
 from genre_fashion_mapping import genre_fashion  # Import the genre-fashion mapping
 from retrieve_broad_genre import genre_lookup_table, get_broad_genre
+import pandas as pd
+import time
+import random
 
 app = Flask(__name__)
 app.secret_key = os.getenv('FLASK_SECRET_KEY')
-import time
 
 load_dotenv()
 
@@ -20,11 +22,17 @@ SCOPE = 'user-library-read user-top-read'
 
 sp_oauth = SpotifyOAuth(client_id=SPOTIPY_CLIENT_ID, client_secret=SPOTIPY_CLIENT_SECRET, redirect_uri=SPOTIPY_REDIRECT_URI, scope=SCOPE)
 
+#Load genre_to_clothing csv into data frame
+current_directory = os.getcwd()
+file_path = os.path.join(current_directory, 'genre_to_clothing.csv')
+genre_to_clothing_df = pd.read_csv(file_path)
+
+#Before request (delete later)
 @app.before_request
 def before_request():
     g.start_time = time.time()
 
-# Add an after_request hook to measure the time taken for each request and log the information
+# After request for testing website response times to requests (delete later)
 @app.after_request
 def after_request(response):
     if hasattr(g, 'start_time'):
@@ -69,16 +77,37 @@ def get_top_genres():
         top_genres = Counter(genres).most_common(10)
 
         broad_genres = categorize_subgenres(top_genres)
-        
+
         assigned_clothing = assign_clothing(broad_genres)
 
-        avatar_description = generate_avatar_description(top_genres)
+        new_assigned_clothing = generate_avatar(assigned_clothing)
         
-        return render_template('top_genres.html', top_genres=top_genres, avatar_description=avatar_description, broad_genres=broad_genres, assigned_clothing=assigned_clothing)
+        avatar_description = generate_avatar_description(top_genres)
+
+        print(assigned_clothing)
+        
+        return render_template('top_genres.html', top_genres=top_genres, avatar_description=avatar_description, broad_genres=broad_genres, assigned_clothing=new_assigned_clothing)
     except Exception as e:
         print(f"An exception occurred: {str(e)}")
         return redirect('/')
 
+# Picks clothing from csv table
+def generate_avatar(assigned_clothing):
+    new_assigned_clothing = []
+
+    for i, (clothes, genre) in enumerate(assigned_clothing):
+        result = genre_to_clothing_df[genre_to_clothing_df['Genres'] == genre][clothes].values
+        if len(result) > 0:
+            result_list = result[0].split(', ')
+            random_clothing = random.choice(result_list)
+            clothing_and_genre = [clothes, random_clothing, genre]
+            new_assigned_clothing.append(clothing_and_genre)
+
+    return new_assigned_clothing 
+            
+
+# Sort a user's specific top genres into broader genres
+# Returns list of tuples where each tuple is (broad genre, amount they listen to this genre)
 def categorize_subgenres(top_genres):
     broad_genres = []
     for genre in top_genres:
@@ -99,6 +128,7 @@ def categorize_subgenres(top_genres):
 
     return get_category_proporions(broad_genres)
 
+# Changes number to a percentage in the list of tuples of broad genres
 def get_category_proporions(broad_genres):
     total = sum(genre[1] for genre in broad_genres)
     
@@ -111,6 +141,8 @@ def get_category_proporions(broad_genres):
 
     return broad_genres
 
+# Assigns each genre to a clothing item depending on how many broad genres a user listens to
+# and what their top genres are 
 def assign_clothing(broad_genres):
     clothing_categories = ['Shirts', 'Shoes', 'Pants', 'Headwear', 'Accessories']
 
@@ -118,25 +150,25 @@ def assign_clothing(broad_genres):
 
     if len(broad_genres) == 1:
         top_genre = broad_genres[0][0]
-        assigned_items = {('Shirt', top_genre), ('Shoes', top_genre),
+        assigned_items = [('Shirts', top_genre), ('Shoes', top_genre),
                           ('Pants', top_genre), ('Headwear', top_genre),
-                          ('Accessories', top_genre)}
+                          ('Accessories', top_genre)]
     elif len(broad_genres) == 2:
-        assigned_items = {('Shirt', broad_genres[0][0]), ('Shoes', broad_genres[0][0]),
+        assigned_items = [('Shirts', broad_genres[0][0]), ('Shoes', broad_genres[0][0]),
                           ('Headwear', broad_genres[0][0]), ('Pants', broad_genres[1][0]),
-                          ('Accessories', broad_genres[1][0])}
+                          ('Accessories', broad_genres[1][0])]
     elif len(broad_genres) == 3:
-        assigned_items = {('Shirt', broad_genres[0][0]), ('Shoes', broad_genres[0][0]),
+        assigned_items = [('Shirts', broad_genres[0][0]), ('Shoes', broad_genres[0][0]),
                           ('Headwear', broad_genres[1][0]), ('Pants', broad_genres[1][0]),
-                          ('Accessories', broad_genres[2][0])}
+                          ('Accessories', broad_genres[2][0])]
     elif len(broad_genres) == 4:
-        assigned_items = {('Shirt', broad_genres[0][0]), ('Shoes', broad_genres[0][0]),
+        assigned_items = [('Shirts', broad_genres[0][0]), ('Shoes', broad_genres[0][0]),
                           ('Headwear', broad_genres[1][0]), ('Pants', broad_genres[2][0]),
-                          ('Accessories', broad_genres[3][0])}
+                          ('Accessories', broad_genres[3][0])]
     else:
-        assigned_items = {('Shirt', broad_genres[0][0]), ('Shoes', broad_genres[1][0]),
+        assigned_items = [('Shirts', broad_genres[0][0]), ('Shoes', broad_genres[1][0]),
                           ('Headwear', broad_genres[2][0]), ('Pants', broad_genres[3][0]),
-                          ('Accessories', broad_genres[4][0])}
+                          ('Accessories', broad_genres[4][0])]
 
     return assigned_items
 

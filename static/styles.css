@@ -102,3 +102,9 @@ footer {
 footer p {
     font-size: 16px;
 }
+
+.inspired-by {
+    font-style: italic; /* Add any additional styles as needed */
+    margin-left: 5px;   /* Adjust the margin to separate it from the rest of the line */
+}
+
