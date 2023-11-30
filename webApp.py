@@ -4,7 +4,6 @@ from spotipy.oauth2 import SpotifyOAuth
 import os
 from dotenv import load_dotenv
 from collections import Counter
-from genre_fashion_mapping import genre_fashion  # Import the genre-fashion mapping
 from retrieve_broad_genre import genre_lookup_table, get_broad_genre
 import pandas as pd
 import time
@@ -58,13 +57,6 @@ def callback():
     session['token_info'] = token_info
     return redirect('/get_top_genres')
 
-def generate_avatar_description(top_genres):
-    avatar_description = []
-    for genre, _ in top_genres:
-        fashion_items = genre_fashion.get(genre.lower(), [])
-        avatar_description.extend(fashion_items)
-    return avatar_description
-
 @app.route('/get_top_genres')
 def get_top_genres():
     try:
@@ -82,11 +74,10 @@ def get_top_genres():
 
         new_assigned_clothing = generate_avatar(assigned_clothing)
         
-        avatar_description = generate_avatar_description(top_genres)
 
         print(assigned_clothing)
         
-        return render_template('top_genres.html', top_genres=top_genres, avatar_description=avatar_description, broad_genres=broad_genres, assigned_clothing=new_assigned_clothing)
+        return render_template('top_genres.html', top_genres=top_genres, broad_genres=broad_genres, assigned_clothing=new_assigned_clothing)
     except Exception as e:
         print(f"An exception occurred: {str(e)}")
         return redirect('/')
